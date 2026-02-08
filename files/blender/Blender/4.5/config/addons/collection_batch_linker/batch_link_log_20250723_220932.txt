@@ -1,0 +1,22 @@
+2025-07-23 22:09:32,594 - INFO - Found 44 collections in source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 22:09:32,594 - INFO - Generated 25 base patterns from collections
+2025-07-23 22:09:32,595 - INFO - Folder 'Jordan_Gamma_Fixtures' matches 8 collections
+2025-07-23 22:09:32,595 - INFO - Folder 'Jordan_Gamma_IZ' matches 5 collections
+2025-07-23 22:09:32,595 - INFO - Folder 'Jordan_Gamma_Wholesale' matches 4 collections
+2025-07-23 22:10:16,912 - INFO - Found 44 collections in source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 22:10:16,913 - INFO - Generated 25 base patterns from collections
+2025-07-23 22:10:16,913 - INFO - Folder 'Jordan_Gamma_Fixtures' matches 8 collections
+2025-07-23 22:10:16,913 - INFO - Folder 'Jordan_Gamma_IZ' matches 5 collections
+2025-07-23 22:10:16,914 - INFO - Folder 'Jordan_Gamma_Wholesale' matches 4 collections
+2025-07-23 22:10:25,089 - INFO - Starting batch collection linking operation
+2025-07-23 22:10:25,089 - INFO - Source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 22:10:25,089 - INFO - Root directory: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\
+2025-07-23 22:10:25,133 - INFO - Found 44 collections in source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 22:10:25,133 - INFO - Generated 25 base patterns from collections
+2025-07-23 22:10:25,134 - INFO - Folder 'Jordan_Gamma_Fixtures' matches 8 collections
+2025-07-23 22:10:25,134 - INFO - Folder 'Jordan_Gamma_IZ' matches 5 collections
+2025-07-23 22:10:25,134 - INFO - Folder 'Jordan_Gamma_Wholesale' matches 4 collections
+2025-07-23 22:10:25,134 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Fixtures\Jordan_Gamma_Fixtures.blend
+2025-07-23 22:10:25,134 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_IZ\Jordan_Gamma_IZ.blend
+2025-07-23 22:10:25,134 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Wholesale\Jordan_Gamma_Wholesale.blend
+2025-07-23 22:10:25,134 - INFO - Batch operation completed. Files processed: 0, Collections linked: 0, Skipped: 0

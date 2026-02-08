@@ -1,0 +1,13 @@
+2025-07-23 23:52:01,272 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:52:01,272 - INFO - Using custom pattern: initiative
+2025-07-23 23:52:05,878 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:52:05,879 - INFO - Derived 23 base patterns
+2025-07-23 23:52:13,911 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:52:13,911 - INFO - Derived 23 base patterns
+2025-07-23 23:52:13,912 - WARNING - Missing blend for folder X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_ApparelWall
+2025-07-23 23:52:13,912 - WARNING - Missing blend for folder X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Cover_Up_Window
+2025-07-23 23:52:13,913 - WARNING - Missing blend for folder X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Fixtures
+2025-07-23 23:52:13,913 - WARNING - Missing blend for folder X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_IZ
+2025-07-23 23:52:13,913 - WARNING - Missing blend for folder X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Wholesale
+2025-07-23 23:52:13,914 - WARNING - Missing blend for folder X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Window
+2025-07-23 23:52:13,946 - INFO - Completed: {'success': True, 'files_processed': 6, 'collections_linked': 0, 'collections_skipped': 0, 'missing_folders': ['1_merge', '2_links', 'template'], 'missing_collections': [], 'link_errors': [], 'log_file': 'C:\\Users\\Paul\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\addons\\collection_batch_linker\\batch_link_log_20250723_235213.txt'}

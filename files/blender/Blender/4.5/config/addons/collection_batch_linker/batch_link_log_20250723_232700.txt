@@ -1,0 +1,96 @@
+2025-07-23 23:27:00,291 - INFO - Found 44 collections in source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:27:00,291 - INFO - Generated 23 base patterns from collections
+2025-07-23 23:27:00,292 - INFO - Folder 'Jordan_Gamma_ApparelWall' matches 33 collections
+2025-07-23 23:27:00,292 - INFO - Folder 'Jordan_Gamma_Cover_Up_Window' matches 33 collections
+2025-07-23 23:27:00,292 - INFO - Folder 'Jordan_Gamma_Fixtures' matches 39 collections
+2025-07-23 23:27:00,292 - INFO - Folder 'Jordan_Gamma_IZ' matches 36 collections
+2025-07-23 23:27:00,292 - INFO - Folder 'Jordan_Gamma_Wholesale' matches 35 collections
+2025-07-23 23:27:00,292 - INFO - Folder 'Jordan_Gamma_Window' matches 34 collections
+2025-07-23 23:31:10,674 - INFO - Found 44 collections in source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:31:10,674 - INFO - Generated 23 base patterns from collections
+2025-07-23 23:31:10,674 - INFO - Folder 'Jordan_Gamma_ApparelWall' matches 33 collections
+2025-07-23 23:31:10,674 - INFO - Folder 'Jordan_Gamma_Cover_Up_Window' matches 33 collections
+2025-07-23 23:31:10,674 - INFO - Folder 'Jordan_Gamma_Fixtures' matches 39 collections
+2025-07-23 23:31:10,675 - INFO - Folder 'Jordan_Gamma_IZ' matches 36 collections
+2025-07-23 23:31:10,675 - INFO - Folder 'Jordan_Gamma_Wholesale' matches 35 collections
+2025-07-23 23:31:10,675 - INFO - Folder 'Jordan_Gamma_Window' matches 34 collections
+2025-07-23 23:34:09,088 - INFO - Found 44 collections in source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:34:09,089 - INFO - Generated 23 base patterns from collections
+2025-07-23 23:34:09,089 - INFO - Folder 'Jordan_Gamma_ApparelWall' matches 33 collections
+2025-07-23 23:34:09,089 - INFO - Folder 'Jordan_Gamma_Cover_Up_Window' matches 33 collections
+2025-07-23 23:34:09,089 - INFO - Folder 'Jordan_Gamma_Fixtures' matches 39 collections
+2025-07-23 23:34:09,089 - INFO - Folder 'Jordan_Gamma_IZ' matches 36 collections
+2025-07-23 23:34:09,089 - INFO - Folder 'Jordan_Gamma_Wholesale' matches 35 collections
+2025-07-23 23:34:09,090 - INFO - Folder 'Jordan_Gamma_Window' matches 34 collections
+2025-07-23 23:34:25,898 - INFO - Starting batch collection linking operation
+2025-07-23 23:34:25,899 - INFO - Source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:34:25,899 - INFO - Root directory: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\
+2025-07-23 23:34:25,947 - INFO - Found 44 collections in source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:34:25,947 - INFO - Generated 23 base patterns from collections
+2025-07-23 23:34:25,947 - INFO - Folder 'Jordan_Gamma_ApparelWall' matches 33 collections
+2025-07-23 23:34:25,947 - INFO - Folder 'Jordan_Gamma_Cover_Up_Window' matches 33 collections
+2025-07-23 23:34:25,948 - INFO - Folder 'Jordan_Gamma_Fixtures' matches 39 collections
+2025-07-23 23:34:25,948 - INFO - Folder 'Jordan_Gamma_IZ' matches 36 collections
+2025-07-23 23:34:25,948 - INFO - Folder 'Jordan_Gamma_Wholesale' matches 35 collections
+2025-07-23 23:34:25,948 - INFO - Folder 'Jordan_Gamma_Window' matches 34 collections
+2025-07-23 23:34:25,948 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_ApparelWall\Jordan_Gamma_ApparelWall.blend
+2025-07-23 23:34:25,948 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Cover_Up_Window\Jordan_Gamma_Cover_Up_Window.blend
+2025-07-23 23:34:25,948 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Fixtures\Jordan_Gamma_Fixtures.blend
+2025-07-23 23:34:25,948 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_IZ\Jordan_Gamma_IZ.blend
+2025-07-23 23:34:25,948 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Wholesale\Jordan_Gamma_Wholesale.blend
+2025-07-23 23:34:25,948 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Window\Jordan_Gamma_Window.blend
+2025-07-23 23:34:25,949 - INFO - Batch operation completed. Files processed: 0, Collections linked: 0, Skipped: 0
+2025-07-23 23:34:34,047 - INFO - Starting batch collection linking operation
+2025-07-23 23:34:34,047 - INFO - Source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:34:34,047 - INFO - Root directory: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\
+2025-07-23 23:34:34,093 - INFO - Found 44 collections in source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:34:34,093 - INFO - Generated 23 base patterns from collections
+2025-07-23 23:34:34,094 - INFO - Folder 'Jordan_Gamma_ApparelWall' matches 33 collections
+2025-07-23 23:34:34,094 - INFO - Folder 'Jordan_Gamma_Cover_Up_Window' matches 33 collections
+2025-07-23 23:34:34,094 - INFO - Folder 'Jordan_Gamma_Fixtures' matches 39 collections
+2025-07-23 23:34:34,094 - INFO - Folder 'Jordan_Gamma_IZ' matches 36 collections
+2025-07-23 23:34:34,094 - INFO - Folder 'Jordan_Gamma_Wholesale' matches 35 collections
+2025-07-23 23:34:34,094 - INFO - Folder 'Jordan_Gamma_Window' matches 34 collections
+2025-07-23 23:34:34,095 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_ApparelWall\Jordan_Gamma_ApparelWall.blend
+2025-07-23 23:34:34,095 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Cover_Up_Window\Jordan_Gamma_Cover_Up_Window.blend
+2025-07-23 23:34:34,095 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Fixtures\Jordan_Gamma_Fixtures.blend
+2025-07-23 23:34:34,095 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_IZ\Jordan_Gamma_IZ.blend
+2025-07-23 23:34:34,095 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Wholesale\Jordan_Gamma_Wholesale.blend
+2025-07-23 23:34:34,095 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Window\Jordan_Gamma_Window.blend
+2025-07-23 23:34:34,095 - INFO - Batch operation completed. Files processed: 0, Collections linked: 0, Skipped: 0
+2025-07-23 23:34:59,742 - INFO - Starting batch collection linking operation
+2025-07-23 23:34:59,743 - INFO - Source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:34:59,743 - INFO - Root directory: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\
+2025-07-23 23:34:59,798 - INFO - Found 44 collections in source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:34:59,798 - INFO - Generated 23 base patterns from collections
+2025-07-23 23:34:59,800 - INFO - Folder 'Jordan_Gamma_ApparelWall' matches 33 collections
+2025-07-23 23:34:59,800 - INFO - Folder 'Jordan_Gamma_Cover_Up_Window' matches 33 collections
+2025-07-23 23:34:59,800 - INFO - Folder 'Jordan_Gamma_Fixtures' matches 39 collections
+2025-07-23 23:34:59,800 - INFO - Folder 'Jordan_Gamma_IZ' matches 36 collections
+2025-07-23 23:34:59,800 - INFO - Folder 'Jordan_Gamma_Wholesale' matches 35 collections
+2025-07-23 23:34:59,800 - INFO - Folder 'Jordan_Gamma_Window' matches 34 collections
+2025-07-23 23:34:59,800 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_ApparelWall\Jordan_Gamma_ApparelWall.blend
+2025-07-23 23:34:59,800 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Cover_Up_Window\Jordan_Gamma_Cover_Up_Window.blend
+2025-07-23 23:34:59,801 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Fixtures\Jordan_Gamma_Fixtures.blend
+2025-07-23 23:34:59,801 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_IZ\Jordan_Gamma_IZ.blend
+2025-07-23 23:34:59,801 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Wholesale\Jordan_Gamma_Wholesale.blend
+2025-07-23 23:34:59,801 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Window\Jordan_Gamma_Window.blend
+2025-07-23 23:34:59,801 - INFO - Batch operation completed. Files processed: 0, Collections linked: 0, Skipped: 0
+2025-07-23 23:36:36,521 - INFO - Starting batch collection linking operation
+2025-07-23 23:36:36,521 - INFO - Source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:36:36,521 - INFO - Root directory: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\
+2025-07-23 23:36:36,570 - INFO - Found 44 collections in source: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-23 23:36:36,570 - INFO - Generated 23 base patterns from collections
+2025-07-23 23:36:36,571 - INFO - Folder 'Jordan_Gamma_ApparelWall' matches 33 collections
+2025-07-23 23:36:36,571 - INFO - Folder 'Jordan_Gamma_Cover_Up_Window' matches 33 collections
+2025-07-23 23:36:36,571 - INFO - Folder 'Jordan_Gamma_Fixtures' matches 39 collections
+2025-07-23 23:36:36,571 - INFO - Folder 'Jordan_Gamma_IZ' matches 36 collections
+2025-07-23 23:36:36,571 - INFO - Folder 'Jordan_Gamma_Wholesale' matches 35 collections
+2025-07-23 23:36:36,571 - INFO - Folder 'Jordan_Gamma_Window' matches 34 collections
+2025-07-23 23:36:36,571 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_ApparelWall\Jordan_Gamma_ApparelWall.blend
+2025-07-23 23:36:36,571 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Cover_Up_Window\Jordan_Gamma_Cover_Up_Window.blend
+2025-07-23 23:36:36,572 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Fixtures\Jordan_Gamma_Fixtures.blend
+2025-07-23 23:36:36,572 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_IZ\Jordan_Gamma_IZ.blend
+2025-07-23 23:36:36,572 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Wholesale\Jordan_Gamma_Wholesale.blend
+2025-07-23 23:36:36,572 - WARNING - Target blend file not found: X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Window\Jordan_Gamma_Window.blend
+2025-07-23 23:36:36,572 - INFO - Batch operation completed. Files processed: 0, Collections linked: 0, Skipped: 0

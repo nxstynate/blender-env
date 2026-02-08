@@ -1,0 +1,25 @@
+schema_version = "1.0.0"
+
+# Blender Add-on Manifest File
+id = "light_wrangler"
+version = "3.2.6"
+name = "Light Wrangler"
+tagline = "Intelligent Lighting Management Suite"
+maintainer = "Leonid Altman <contact@leonidaltman.com>"
+type = "add-on"
+
+# Permissions your add-on needs
+permissions = ["files"]
+
+# Link to documentation or support
+website = "https://superhivemarket.com/products/light-wrangler/docs"
+
+# Tags to help categorize the add-on
+tags = ["Lighting", "Rendering", "3D View"]
+
+# Specify the minimum and maximum supported Blender versions
+blender_version_min = "4.0.0"
+blender_version_max = "5.9.9"
+
+# License information using SPDX identifier
+license = ["SPDX:GPL-3.0-or-later"]

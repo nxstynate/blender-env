@@ -1,0 +1,56 @@
+2025-07-24 22:28:20,262 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:28:20,262 - INFO - Derived 23 base patterns for folder matching
+2025-07-24 22:28:26,123 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:28:26,124 - ERROR - Invalid regex: nothing to repeat at position 0
+2025-07-24 22:29:19,344 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:29:19,345 - INFO - Using custom collection pattern: .*
+2025-07-24 22:29:32,250 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:29:32,251 - INFO - Using custom collection pattern: ApparelWall
+2025-07-24 22:29:37,029 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:29:37,029 - INFO - Using custom collection pattern: Window
+2025-07-24 22:29:41,008 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:29:41,008 - INFO - Using custom collection pattern: Window*
+2025-07-24 22:29:44,995 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:29:44,995 - INFO - Using custom collection pattern: .*
+2025-07-24 22:30:18,604 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:30:18,605 - INFO - Using custom collection pattern: Jordan_Gamma_Window
+2025-07-24 22:30:22,279 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:30:22,280 - INFO - Using custom collection pattern: Jordan_Gamma_Window*
+2025-07-24 22:30:28,236 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:30:28,236 - ERROR - Invalid regex: nothing to repeat at position 0
+2025-07-24 22:30:33,543 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:30:33,543 - INFO - Using custom collection pattern: Jordan*
+2025-07-24 22:30:40,369 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:30:40,369 - INFO - Using custom collection pattern: .*
+2025-07-24 22:30:55,414 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:30:55,414 - ERROR - Invalid regex: nothing to repeat at position 0
+2025-07-24 22:31:04,092 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:31:04,092 - INFO - Using custom collection pattern: Jordan*
+2025-07-24 22:31:12,940 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:31:12,941 - ERROR - Invalid regex: nothing to repeat at position 0
+2025-07-24 22:31:24,222 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:31:24,222 - INFO - Using custom collection pattern: Jordan*
+2025-07-24 22:31:31,694 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:31:31,695 - INFO - Using custom collection pattern: Jordan_Gamma
+2025-07-24 22:31:36,940 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:31:36,941 - INFO - Using custom collection pattern: Jordan_Gamma.*
+2025-07-24 22:31:43,236 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:31:43,237 - INFO - Using custom collection pattern: .Jordan*
+2025-07-24 22:31:49,261 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:31:49,262 - INFO - Using custom collection pattern: .*
+2025-07-24 22:31:54,738 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:31:54,738 - INFO - Using custom collection pattern: Jordan.*
+2025-07-24 22:32:02,599 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:32:02,599 - INFO - Using custom collection pattern: .*Jordan
+2025-07-24 22:33:13,425 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:33:13,425 - INFO - Using custom collection pattern: ^Jordan
+2025-07-24 22:33:27,550 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:33:27,550 - INFO - Using custom collection pattern: ^production-.*-master\.blend$
+2025-07-24 22:33:27,746 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:33:27,746 - INFO - Using custom collection pattern: ^production-.*-master\.blend$
+2025-07-24 22:33:27,845 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:33:27,845 - INFO - Using custom collection pattern: ^production-.*-master\.blend$
+2025-07-24 22:33:38,983 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:33:38,984 - INFO - Using custom collection pattern: Jordan
+2025-07-24 22:47:43,018 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 22:47:43,018 - INFO - Using custom collection pattern: Jordan

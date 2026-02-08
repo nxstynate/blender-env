@@ -1,0 +1,833 @@
+Color ▸ Adjust ▸ Hue/Saturation/Value
+   black-gloss-001
+Color ▸ Adjust ▸ Brightness/Contrast
+Color ▸ Adjust ▸ Exposure
+   Render Result
+   snow-mound-001
+ 0 fog
+   Viewer Node
+Randomize rotation.001
+Randomize Scale
+gin-x-juice-4pack-citrus
+gin-x-juice-4pack-melon
+gin-x-juice-4pack-passion-fruit
+  24033101_Ani_Editing
+  24032902_Turntable_4Pack
+  24032901_Turntable_Can
+0 cam-shot-0200
+0 cam-shot-0100
+  shot-0100-cam-a
+  shot-0100-cam-b
+  shot-0100-cam-e
+  shot-0100-cam-c
+  00000000_Assets
+  shot-0200-cam-a
+  shot-0100-cam-f
+  shot-0100-cam-d
+  24033101_Ani_Shot_0100
+  shot-0100-cam-g
+  24033101_Ani_Shot_0200
+Deform ▸ Lattice
+   tent-metal-001
+ 0 metal-aluminum-001
+   metal-aluminum-001.001
+fixtures-vip-table
+   World
+ 0 metal_aluminum_001
+   base_color_texture
+Image Texture ▸ Color
+   graphic-step-and-repeat-001
+ 0 hat-black-001
+ 0 hat-beige-001
+ 0 hat-blue-001
+ 0 hat-green-001
+   hat-strip-001
+   hat-leather-strip
+   hat-metal-tip-001
+   wood-003_ash-european-1_d.jpg
+ 0 plastic-white-mid-001
+mirror.001
+Input ▸ Attributes ▸ material_index
+ 0 leaves.001
+   bark
+ 0 bark.001
+   leaves.001
+ 0 leaves
+   bark.001
+ 0 bark
+fixture-wall-unit
+   hat-beige-001
+   hat-blue-001
+   hat-green-001
+   hat-black-001
+fixture-bar
+fixture-wall-fixture-wood
+product-hat-blue
+mannequin-head
+product-hat-black
+product-hat-green
+product-hat-beige
+wall-fixture
+fixture-high-boy
+fixture-mirror
+fixture-vase
+   Base.001
+   override-001
+   wood_painted_white_001
+   MINT_LEAF
+   matte_grey
+  cam-focus-point
+   metal_aluminum_001
+Generate ▸ Decimate
+ 0 metal-painted-red-001
+   metal-painted-blue-001
+   metal-painted-red-001
+   wood-bamboo-001
+   wood-bamboo-002
+   wicker-001
+   metal_aluminum_001.001
+   wood-001_alder-black-1_d.jpg
+credenza
+Force Field ▸ Boid
+   marble-001
+   Wood_Veneer_1
+Volume ▸ Empty
+4_accessories_floor
+4_product_floor
+   black_gloss_001
+   concrete-29_d100.jpg
+   wood-014_cherry-european-1_d_004.jpg
+  scene-assets
+  scene-shot-100
+   eames-stool-001
+   metal_painted_black-001
+   gyp_board_001
+ 0 pic_04
+   pic_03
+ 0 pic_01
+   pic_01
+Object ▸ Relations ▸ Make Local... ▸ Selected Objects, Data and Materials
+Select ▸ Select Linked ▸ Material|Shift L
+Shader ▸ Principled Volume
+   Metal 1.003
+   particle-blue-001
+   particle-green-001
+   particle-001
+  Geometry Nodes.002
+  video-edit
+background
+vortex-a-001
+vortex-b-001
+  shot-0700
+  assets
+  shot-0600
+   terrazzo-001
+   AKAI front panel
+   AKAI front panel.001
+Force Field ▸ Charge
+   tape 01
+Light ▸ Point
+2_floor
+   Liquid Domain Material.001
+   Liquid Domain Material
+   Liquid Domain Material.002
+Instances ▸ Instance Scale
+Instances ▸ Scale Instances
+Curve ▸ Topology ▸ Points of Curve
+Input ▸ Scene ▸ Collection Info
+  foscus-point
+Select ▸ Select Similar (Shift G) ▸ Material
+    controller action and navigation buttons.001
+    controller action and navigation buttons
+ 0  controller action and navigation buttons.001
+   blue light
+Point ▸ Distribute Points on Faces
+gin-x-juice-4pack-apricot
+vertex-group
+Force Field ▸ Force
+Force Field ▸ Vortex
+gin-x-juice-can-american-passion-fruit
+fluid-splash-001
+  focus
+Random Value ▸ Value
+gin-x-juice-can-american-melon
+watermelon
+ 0 Watermelon_tguocjppa
+wood-crate
+ 0 Stucco_Facade_vftlabg
+   background
+   rocks
+  focus-point-002
+can-fruit-fizz-001
+Headphones001
+super-nintendo-controller-v2
+  shot-0400
+  shot-0500
+   DECALS
+   Map #20
+   Map #12
+   Map #23
+  shot-0300
+Microsoft-Surface-Pro
+  focus-point-001
+   2_Set
+   metal_blackened_steel_001
+lights-left-window
+copic-markers
+  DJI_0185
+   metal-brushed-steel-001
+   metal-metal-grate-001
+   LED_Wall-001
+   NEYBOR-SC-Greenhouse-Final Artwork-20230510.jpg
+   door-001
+   Material.Glazing
+   metal-painted-black-001.001
+   plastic-rubber-001
+Mesh ▸ Cylinder
+   Material.Vivariums
+   neon-purple-002
+ 0 Rough_Asphalt_wjvnagr
+ 0 Sidewalk_Tiles_rlgnwmp
+ 0 Scratched_Painted_Metal_vbmiceq
+   Flourescent_Light_Bright
+   Tree_Cable
+  ASSETS
+AM106_42_04_proxy
+AM106_50_04_proxy
+  Assets
+   fence-001
+   Generic.014
+ 0 glass-001
+   grass-001
+   metal-aluminum-001
+ 0 grass-001
+ 0 metal-painted-white-001
+ 0 fence-001
+   Metal
+   Aluminum
+ 0 concrete-001
+ 0 metal-painted-green-001
+ 0 metal-painted-green-perf-001
+   aluminum-001
+  001.George
+   asphalt-001
+   concrete-001
+  Fixtures
+   site-grass-001
+  Grass 04.002
+Texture ▸ Brick Texture
+   metal-painted-green-001.002
+   emission-white-001
+   metal-painted-green-001
+0 flip-fluid-particles-001.abc.001
+   particles-001
+  ~SIMULATION
+Collection Instance ▸ Liquid-Sim
+  ~ASSETS
+  shot-0200
+  shot-0200.001
+  shot-0100
+0 ParticleSettings.001
+Force Field ▸ Drag
+   Particle-001
+Color ▸ Convert Colorspace
+   tires-001
+   rims-001
+   chrome-001
+   tail-light-001
+   black-paint-001
+Utilities ▸ Levels
+   yellow-paint-concrete-001
+Volume ▸ Import OpenVDB...
+  ground_explosion_0000
+Output ▸ World Output
+   fog
+   white-walls-001
+0 Geometry Nodes
+Group ▸ Grain Source
+Point ▸v|Float
+v
+grow
+texture
+Input ▸ Constant ▸ Value
+Geometry ▸ Read ▸ Named Attribute
+Point ▸texture|Float
+Group ▸ Noise Field
+  Sphere.001
+  sphere-particle-sim
+  Cube
+Simulation ▸ Simulation Zone
+  Cube.001
+   Display
+   Display.001
+Input ▸ Camera Data
+  AdvectionSphere
+Point ▸ Points to Volume
+Group ▸ Smooth by Angle
+Input ▸ Scene ▸ Object Info
+  Cone
+ 0 Desert_Western_Ground_Gravel_Slate_venoehv
+   Desert_Western_Ground_Gravel_Slate_venoehv
+Vector ▸ Displacement
+   iPhone16
+Instances ▸ Instances to Points
+Hair ▸ Read ▸ Curve Root
+Utilities ▸ Math ▸ Mix
+Utilities ▸ Matrix ▸ Invert Matrix
+Utilities ▸ Color ▸ Mix Color
+wave
+Curve ▸ Line
+   Collection 8
+Group ▸ Surface Solver
+Point ▸ Points to Vertices
+Point ▸position|Vector
+ 0 Material
+ 0 Texture.002
+   Floor
+   Texture
+   1-CAM
+   Effector
+Top
+All
+invert
+Group.001
+Group.002
+  Suzanne
+ 0 Texture
+  Scene.002
+Input ▸ Constant ▸ String
+Utilities ▸ Text ▸ String to Curves
+Curve ▸ Topology ▸ Offset Point in Curve
+Mesh ▸ Topology ▸ Offset Corner in Face
+Mesh ▸ Operations ▸ Extrude Mesh
+Mesh ▸ Operations ▸ Flip Faces
+  focus-point
+Curve ▸ Operations ▸ Fill Curve
+Curve ▸ Operations ▸ Curve to Mesh
+Curve ▸ Primitives ▸ Curve Circle
+Curve ▸ Operations ▸ Trim Curve
+Hair ▸ Read ▸ Curve Segment
+Geometry ▸ Read ▸ Radius
+Curve ▸ Write ▸ Set Curve Radius
+Mesh ▸ Operations ▸ Mesh to Curve
+   metal-001
+Curve ▸ Rectangle
+Curve ▸ Curve Profiles ▸ Rectangle
+Mesh ▸ Single Vert ▸ Add Single Vert
+lgt-fix-00
+Texture ▸ Wave Texture
+Mesh ▸ Operations ▸ Scale Elements
+Geometry ▸ Read ▸ Position
+Utilities ▸ Vector ▸ Separate XYZ
+Unassigned ▸ Geometry Nodes
+0 Geometry Nodes.001
+  Sphere
+   Material.003
+Generate ▸ Array
+   wood-001
+  radial-wave
+Edit ▸ Vertex Weight Proximity
+  control
+Generate ▸ Mask
+   apparel-001
+   white
+   black
+Mesh ▸ Primitives ▸ Ico Sphere
+Curve ▸ Primitives ▸ Curve Line
+Mesh ▸ Primitives ▸ Mesh Line
+Geometry ▸ Sample ▸ Geometry Proximity
+Geometry ▸ Read ▸ Normal
+Utilities ▸ Matrix ▸ Multiply Matrices
+4-FLU
+ 0 Geometric_Modernist_03_Patterned_Canvas
+   Geometric_Modernist_03_Patterned_Canvas
+Physics ▸ Particle System
+0 ParticleSettings
+Input ▸ Point Info
+Input ▸ Curves Info
+Input ▸ Volume Info
+Texture ▸ Checker Texture
+Attribute ▸ Capture Attribute
+Attribute ▸ Store Named Attribute
+COL
+Input ▸ Attribute
+  foc-pnt
+  foc-pt
+Point ▸ Points
+Mesh ▸ Read ▸ Vertex Neighbors
+Normals ▸ Smooth by Angle
+  Geometry Nodes.001
+  Geometry Nodes
+Group ▸ Group Input
+Utilities ▸ Math ▸ Compare
+Utilities ▸ Matrix ▸ Project Point
+Mesh ▸ Operations ▸ Mesh to Volume
+Volume ▸ Operations ▸ Volume to Mesh
+Mesh ▸ Operations ▸ Subdivide Mesh
+Mesh ▸ Operations ▸ Subdivision Surface
+Utilities ▸ Math ▸ Map Range
+Edit ▸ Vertex Weight Edit
+Mesh ▸ Read ▸ Mesh Island
+  Plane.001
+Mesh ▸ Operations ▸ Triangulate
+Cloth
+Transform ▸ Lens Distortion
+   graphic-tbd
+   Luster White Pearlescent Matte2
+   Luster White Pearlescent Matte2.001
+  Plane
+   lulu-soho-facade-001
+   [Concrete Aggregate Smoke]
+   LIGHT
+Mesh ▸ Circle
+   neon-red-001
+   fabric-desert-red.001
+   fabric-lavendar-lux.001
+Geometry ▸ Operations ▸ Duplicate Elements
+Geometry ▸ Geometry to Instance
+Geometry ▸ Write ▸ Set Position
+Utilities ▸ Vector ▸ Combine XYZ
+  vg
+241001.01-azur-lululemon
+   granite-001
+   matte-grey-001
+   metal_aluminum_painted_black_matte_001.001
+   stone_granite_001.001
+   arch_poslished_concrete_base_001
+   fabric-jan
+ 0 fabric-jan-option-02
+   F7022_01.002
+   F7022_01.003
+   fabric-jan-option-02
+   fabric-jan-option-01
+ 0 F7022_01.001
+   graphic-sky-001.001
+   lulu-soho-facade-treatment.jpg
+Utilities ▸ Deprecated ▸ Rotate Euler
+  geo-node-scatter
+Input ▸ Geometry
+   glass-reed-001
+   reeded-glass-tex-001
+Deform ▸ Smooth
+Object ▸ Set Origin ▸ Origin to Center of Mass (Volume)
+   Metal - Chrome
+   stone-concrete-001
+   neon-white-001.001
+   metal-white-001
+   glass-reeded-tex-001
+   LEG-F7030.001
+   LEG-F7030
+   metal-irradescent-001
+   metal-chrome-001
+   mannequin-001
+   glass-frosted-irradescent-001
+   metal-painted-white-001
+   metal-chrome
+   fabric-desert-red
+   fabric-black-001
+   fabric-lavendar-lux
+fit-rm
+spot
+   gypboard-white-01
+L0 metal-irradescent-001|[azur-lll-sp25train-kit-of-parts.blend]
+   dichroic
+   mirror
+   graphic-sky-001
+   lightbox-graphic-sky-001
+L  lightbox-graphic-sky-001|[azur-lll-sp25train-kit-of-parts.blend]
+L  neon-yellow-001|[azur-lll-sp25train-kit-of-parts.blend]
+Add ▸ Camera
+  foc-point
+   plastic-black-001
+ F crater-blue
+ F cs-rainforest-green
+ F cs-true-blue
+ F cs-black
+ F cs-desert-red
+ F cs-crater-blue
+ F cs-lavender-lux
+ F cs-passionate
+ F neon-lemonade-001
+L  stone-concrete-001|[lululemon-materials.blend]
+   grass
+   Material.002
+Shader ▸ Diffuse BSDF
+   graphic-fanfestival-001
+   paint-bahc-blue-001
+   tv-screen-001
+   paint-white-001
+Geometry ▸ Operations ▸ Transform Geometry
+   metal-black-001
+  focPnt
+   wood-veneer-oak-001
+L  metal-painted-black-001|[material-stage.blend]
+   office-chair-foreground
+   metal-painted-black-expanded-steel-001
+Converter ▸ Blackbody
+   neon-yellow-001
+L  solid-reeded-tex-gradient-001|[lululemon-materials.blend]
+Mesh ▸ UV ▸ UV Unwrap
+   plastic-white-001
+ F solid-reeded-tex-gradient-001
+ F solid-gradient
+bike
+floor-rubber-tile
+accessories
+treadmill
+bench-rack
+Texture ▸ Sky Texture
+L  plaster-plain-dark-grey-001|[material-stage.blend]
+L  solid-gradient|[lululemon-materials.blend]
+air-bike
+row-machine
+platform
+squat-rack
+ F fabric-comforter-001
+   Gemini kids bed fabric1
+   Gemini kids bed fabric7
+   Gemini kids bed fabric6
+   Gemini kids bed fabric5
+   fabric-jacket-001
+ 0 colorway-orange
+ 0 colorway-orange.001
+   colorway-orange
+   colorway-black
+   colorway-warm-grey
+ 0 colorway-cool-purple
+Color ▸ Set Alpha
+ F glass-clear-001
+   image.png
+L  neon-white-001|[azur-lll-sp25train-kit-of-parts.blend]
+   neon-white-001
+   Kattee Leather Imprint
+Input ▸ Constant ▸ Integer
+Output ▸ Viewer
+  Source Point
+Utilities ▸ Color ▸ Color Ramp
+beats-498-beige
+beats-498-black
+beats-498-orange
+beats-498-purple
+Input ▸ Ambient Occlusion
+   material-shader-test
+ 0 metal-brass-001
+ 0 metal-iron-001
+ 0 metal-gold-001
+   metal-gold-001
+Curve ▸ Curve Profiles ▸ Cycloid
+Input ▸ Bevel
+   weathering-blender-template-001
+ F metal-gold-001
+ F metal-iron-001
+ F metal-aluminum-001
+ F plastic-polycarbonate-001
+  Camera
+  Armchair-Slope-Replica
+ F metal-painted-black-001
+   fabric-striped-black-and-white-001
+Transform ▸ Scale
+Input ▸ Image
+Color ▸ Mix ▸ Alpha Over
+Mesh ▸ Torus
+ParticleSystem
+  Smoke Domain
+  Torus
+Point ▸ Set Point Radius
+Mesh ▸ Operations ▸ Mesh to Points
+   lsu-ext-shot-0100.jpg
+  Grid
+   planters
+Color ▸ Adjust ▸ RGB Curves
+   logo-hulu-illuminated-001
+Color ▸ Brightness/Contrast
+Bump ▸ Height
+logo-the-handmaids-tale
+logo-hulu
+ArchWay
+castleEntryArchWay
+CastleWall
+GrassPad
+Trim
+  GrassPad
+   paint-orange-001
+   rubber-orange-001
+   rubber-black-001.001
+L  Black_Frame|[iphone16.blend]
+   rubber-black-001
+  RoseWaterfall
+   logo-handmaids-tale-self-illuminated-001
+   logo-handmaids-tale-self-ill-white-001
+Edit ▸ Data Transfer
+Group
+  ArchWay
+LGT-Normal
+  Plane.007
+Filter ▸ Glare
+   fire
+Color Ramp ▸ Fac
+Pergola
+   matte-white-001
+Input ▸ Wireframe
+Add Modifier ▸ Geometry Nodes
+   fabric-striped-black-and-white-001.001
+Shader ▸ Translucent BSDF
+Shader ▸ Transparent BSDF
+Vector ▸ Normal
+   Material.001
+   Material
+Mesh ▸ UV Sphere
+Generate ▸ Mirror
+Converter ▸ Map Range
+Physics ▸ Cloth
+Force Field ▸ Turbulence
+L  metal-bead-blasted-black-001|[mat-metals-241205.blend]
+  Scene.001
+  Plane.032
+  Plane.002
+  ScenePergola
+  Scene
+Curve ▸ Point
+Mesh ▸ Grid
+   Riverbed_Growth_sbrkylp2
+ 0 Riverbed_Growth_sbrkylp2
+Edit ▸ Batch Rename...|Ctrl F2
+   gloss-black-001
+ 0 mannequin-001
+ 0 glass-lens-001
+Input ▸ Fresnel
+Shader ▸ Volume Scatter
+   pearl1
+Shader ▸ Glass BSDF
+   glass-topper-001
+Input ▸ RGB
+Shader ▸ Emission
+   matte-grey
+   2_floor
+Texture ▸ Gradient Texture
+   mirror-001
+L  glass-clear-001|[mat-glass-241205.blend]
+   product-shoe-white-001
+L0 metal-aluminum-bead-blasted-001|[mat-metals-241205.blend]
+L  metal-aluminum-bead-blasted-001|[mat-metals-241205.blend]
+ 0 Mud_Rock_xd0mcf2
+WOF-Tables-Option-01
+WOF-Tables-Option-02
+Round-Pedestal-Option-01
+Round-Pedestal-Option-02
+Round-Pedestal-Option-03
+Square-Pedestal-Option-01
+Square-Pedestal-Option-03
+Round-Pedestal-Grouping
+Square-Pedestal-Grouping
+   stone-sparkle-charcoal-001
+L  metal-stainless-steel-001|[mat-metals-241205.blend]
+Converter ▸ Combine XYZ
+Converter ▸ Combine Color
+   glass-lens-001
+   metal-shiny-001
+Plant-A-001
+Normal ▸ Normal
+plant
+ F metal-iron-stainless-steel-brushed-001
+Mesh ▸ Primitives ▸ Grid
+   [Metal_Corrogated_Shiny] copy12
+   metal-stainless-steel-001
+Round-Pedestal-Option-02-Cut.001
+Round-Pedestal-Option-03.001
+Round-Pedestal-Option-01.001
+Square-Pedestal-Option-01.001
+Square-Pedestal-Option-02
+Square-Pedestal-Option-02.001
+Square-Pedestal-Option-03.001
+Round-Pedestal-Option-01-Cut.001
+Round-Pedestal-Option-03-Cut.001
+Round-Pedestal-Option-03-Cut
+   stone-light-001.001
+   stone-light-001
+   stone-medium-001
+   stone-light-001.002
+   metal-stainless-steel-001.002
+Color ▸ Gamma
+Texture ▸ Environment Texture
+   plinths.001
+   plinths.002
+   Screenshot 2024-01-03 at 3.16.47 PM
+Color ▸ Hue/Saturation/Value
+   suede-001
+ 0 World.001
+ 0 FabricSuede015_2K
+L  fabric-lavendar-lux|[azur-lll-sp25train-kit-of-parts.blend]
+   FabricSuede015_2K
+IZ
+   self-illumination-001
+   acrylic
+   jfe-red-001
+ F gradient-illuminated-001
+   graphic-campaign
+   digital content
+   graphic-digital-content-001
+   graphic-digital-content-002
+L0 jfe-red-illuminated-001|[jfeMaterials.blend]
+L  jfe-red-illuminated-001|[jfeMaterials.blend]
+L0 graphic-campaign|[jfeMaterials.blend]
+L0 mannequin-white-001|[jfeMaterials.blend]
+L  mannequin-white-001|[jfeMaterials.blend]
+   Material21
+L0 jfe-red-001|[jfeMaterials.blend]
+L0 acrylic-001|[jfeMaterials.blend]
+L0 gradient-illuminated-001|[jfeMaterials.blend]
+L0 metal-stainless-steel-001|[jfeMaterials.blend]
+L  graphic-campaign|[jfeMaterials.blend]
+L0 graphic-campaign-illuminated|[jfeMaterials.blend]
+   CampaignImg_FPO_LoRes copy
+  gradient-reference-pedestal
+L  jfe-red-001|[jfeMaterials.blend]
+   scrim-fabric-001
+L  graphic-campaign-illuminated|[jfeMaterials.blend]
+   graphic-campaign-illuminated
+L  acrylic-001|[jfeMaterials.blend]
+   Material3
+   Screenshot 2025-04-01 at 16.16.01
+L  gradient-illuminated-001|[jfeMaterials.blend]
+  gradientbox
+   Mirror_Black
+  Empty
+0 Empty
+
+Group ▸ Particle Source
+Group ▸ Particle Solver
+Group ▸ Wind Force
+Empty ▸ Sphere
+Group ▸ Sphereical Field
+  ParticleNull
+Utilities ▸ Math ▸ Math
+Group ▸ Turbulence Force
+Texture ▸ Noise Texture
+Texture ▸ Voronoi Texture
+Converter ▸ Vector Math
+Converter ▸ Mix
+Color ▸ Mix Color
+Vector ▸ Normal Map
+  focusPoint
+   Particle
+Input ▸ Particle Info
+Utilities ▸ Switch
+Input ▸ Scene ▸ Is Viewport
+Geometry ▸ Operations ▸ Delete Geometry
+Mesh ▸ Primitives ▸ Mesh Circle
+Instances ▸ Rotate Instances
+Utilities ▸ Random Value
+Input ▸ Constant ▸ Vector
+Utilities ▸ Vector ▸ Vector Math
+Geometry ▸ Operations ▸ Bake
+Input ▸ Object Info
+Color ▸ RGB Curves
+Mesh ▸ Primitives ▸ Cube
+Instances ▸ Realize Instances
+Shader ▸ Principled BSDF
+Shader ▸ Mix Shader
+   Jordan-Trunner-Fixtures-Pedestal-Takedown.002
+Deform ▸ Shrinkwrap
+Add ▸ Text
+Image ▸ Mesh Plane
+JordanShoe
+Jordan_Gamma_Fixtures_F
+   blackened steel
+   stainless-new
+   Jordan AJ11_LockUp_A
+   [Color_007]
+   glass-001
+   Charcoal Glass
+Pedestal_001
+   Pedestal_001
+   Pedestal_002
+MannequinPlatform
+   MannequinPlatform
+   Mannequin_Platform_002
+   lockup-color
+   glitch a
+   Material10
+   Material16
+FWW_Riser_001
+   emission-blue
+FWW_Riser_002
+Table_Wholesale_001
+Pedestal_004
+   Pedestal_003
+   Pedestal_004
+   charcoal_swatch_001
+Converter ▸ Math
+  Chain
+  CurveInstancer
+Instances ▸ Instance on Points
+Mesh ▸ Primitives ▸ UV Sphere
+Geometry ▸ Join Geometry
+Utilities ▸ Rotation ▸ Euler to Rotation
+Utilities ▸ Deprecated ▸ Align Euler to Vector
+Curve ▸ Read ▸ Curve Tangent
+Curve ▸ Operations ▸ Resample Curve
+Mesh ▸ Write ▸ Set Shade Smooth
+Material ▸ Set Material
+Object ▸ Apply (Ctrl A) ▸ Make Instances Real
+L0 HDRI_Light_Master|[production-light-master.blend]
+ApparelWallGlorifierTable
+heir_series_pedestal_elevated
+heir_series_pedestal_scaled
+heir_series_mann_platform_elevated
+heir_series_mann_platform_scaled
+infrared_mann_platform_elevated
+infrared_mann_platform_scaled
+infrared_pedestal_elevated
+infrared_pedestal_scaled
+L0 BlackMatte|[materials.blend]
+L0 InfraredMatte|[materials.blend]
+   Color_Infrared
+   Material2
+L0 glass-clear-001|[materials.blend]
+L  glass-clear-001|[materials.blend]
+Generate ▸ Bevel
+L  InfraredGloss|[materials.blend]
+L  BlackGloss|[materials.blend]
+L  BlackMatte|[materials.blend]
+L  JordanGG_MetalSS|[materials.blend.001]
+L  InfraredMatte|[materials.blend]
+File ▸ Import ▸ FBX (.fbx)
+infrared_FootwearZone_FWW.001
+Add ▸ Collection Instance...
+heirSeries_FootwearZone_FWW.001
+File ▸ Import ▸ Autodesk 3DS (.3ds)
+File ▸ Import ▸ FBX (.fbx) (experimental)
+Mesh ▸ Monkey
+UVMap
+L  RedHeat_001|[Materials.blend]
+L  glass-clear-001|[Materials.blend]
+   fixture-mann-platforms-lifestyle_womens
+   fixture-mann-platforms-001
+   fixture-mann-platforms-002
+   fixture-mann-platforms-nologo-001
+File ▸ Import ▸ SketchUp (.skp)
+Object ▸ SketchUp Cleanup
+   fw_riser.001
+   plaque.001
+   plaque.002
+Vector ▸ Bump
+Mesh ▸ Parent to Empty
+Mesh ▸ Plane
+Light ▸ Spot
+Save, Open, Append (Ctrl S) ▸ Append
+Texture ▸ Image Texture
+Deform ▸ Displace
+Light ▸ Area
+Converter ▸ Color Ramp
+Normals ▸ Weighted Normal
+Generate ▸ Triangulate
+Generate ▸ Remesh
+Generate ▸ Solidify
+Mesh ▸ Cube
+Object ▸ Set Origin ▸ Origin to Geometry
+Generate ▸ Subdivision Surface
+Generate ▸ Boolean
+Save, Open, Append (Ctrl S) ▸ Link
+File ▸ Export ▸ FBX (.fbx)
+   fixture-mann-platforms-lifestyle_mens
+File ▸ Import ▸ Wavefront (.obj)

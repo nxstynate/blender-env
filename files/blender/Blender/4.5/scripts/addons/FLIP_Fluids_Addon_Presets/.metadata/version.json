@@ -1,0 +1,23 @@
+{
+    "name": "FLIP Fluids Addon Presets",
+    "version": [1, 2, 7],
+    "date_yyyy": "2024",
+    "date_mm": "03",
+    "date_dd": "19",
+    "blend_files": [
+        "FF_GlitterMix.blend",
+        "FF_BrickGenerator.blend",
+	    "FF_RainGen.blend",
+        "FF_BolingLiquid.blend",
+        "FF_FireWater.blend",
+        "FF_MagicInk.blend",
+        "FF_Redwine.blend",
+        "FF_SlimeGreen.blend",
+        "FF_SlimeYellowBubbles.blend",
+        "FF_Standard_Shaders.blend",
+        "FF_ViscoMix_1.blend",
+        "FF_Waterfall_1a.blend",
+        "FF_WaterMidsize_1.blend",
+        "FF_WaterSmallsize_1.blend"
+    ]
+}

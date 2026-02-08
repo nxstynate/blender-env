@@ -1,0 +1,21 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+6a0680bb-07af-400f-9f83-c80fc94a013f:Boling Liquid:Boling Liquid
+c8963ce6-a3af-48a4-be91-a838a1aedeff:FireWater:FireWater
+dbfa48e1-e33b-4f40-8e89-35fc053536a2:GlitterMix:GlitterMix
+4547213b-0c0a-4bfb-a0d8-9e219f1c8750:Magic Ink:Magic Ink
+437c9884-c60d-41ac-9cd1-fc2fb428d2ac:RainGen:RainGen
+f41a0123-fe51-4abf-8896-ef625b96da6a:Redwine:Redwine
+bd231933-84cd-4760-84fc-25dabaf97628:Slime Green:Slime Green
+7fda20f1-cf14-4d4b-a011-49fbaf066e92:Slime Yellow With Bubbles:Slime Yellow With Bubbles
+f3b525e6-8b0e-4594-85f9-8e066f5bfce7:Standard Shaders:Standard Shaders
+3b808b68-e217-41dc-bfea-88251bf2175c:ViscoMix 1:ViscoMix 1
+1b360797-d0fa-4062-8b29-0494406f10a7:Water Midsize 1:Water Midsize 1
+9db2a0ab-9aa9-473c-873b-a962a411d7f4:Water Smallsize 1:Water Smallsize 1
+8258ab6c-725f-462b-b275-37afd77ea870:Waterfall 1a:Waterfall 1a

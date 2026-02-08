@@ -1,0 +1,26 @@
+19.03.2021:
+1. Added "FF_Glitter" Asset: Two inflows with particles and glitter-instances.
+
+30.01.2024:
+1. Added "FF_BrickGenerator" Asset: A procedural brick generator for the fluid surface.
+
+
+04.09.2023:
+1. Added hint to "FF_BolingLiquid" Asset: The "Disable Changing Topology Warning"-Checkbox must be ENABLED!
+2. Added new "FF_RainGen" Asset: A procedural rain generator for raining effects.
+3. Changed README.txt Blender Version Information (new: 3.6.0+)
+
+
+19.08.2023:
+1. Added new "FF_BoilingLiquid" Asset: A procedural bubble generator for boiling.
+
+
+20.03.2023:
+1. Updated "FF_SlimeYellowBubbles": Bubbles are now random sized using geometry-nodes.
+2. Updated "FF_SlimeYellowBubbles": Denoising for rendering has been enabled by default.
+    -> Let us know if there are issues with denoising in your blender version.
+3. Updated all presets -> saved in Blender 3.4.1 to minimize compatiblity issues with cpu-settings (domain -> advanced)
+
+
+09.01.2023:
+Updated all .blend-files to use "auto-detect" for Multithreading.

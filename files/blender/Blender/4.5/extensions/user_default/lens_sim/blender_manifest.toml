@@ -1,0 +1,26 @@
+schema_version = "1.0.0"
+
+id = "lens_sim"
+version = "1.0.0"
+name = "Lens Sim"
+tagline = "Simulates real life lenses with the Ray Portal BSDF material node"
+type = "add-on"
+
+maintainer = "Håvard Krutå Dalen"
+tags = ["Render", "Camera"]
+
+blender_version_min = "4.2.0"
+
+# License conforming to https://spdx.org/licenses/ (use "SPDX: prefix)
+# https://docs.blender.org/manual/en/dev/advanced/extensions/licenses.html
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+copyright = [
+  "2024 Håvard Dalen",
+]
+
+[permissions]
+files = "Save txt files to disk"
+

@@ -1,0 +1,37 @@
+2025-07-24 21:32:48,891 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:32:48,892 - INFO - Using custom pattern: initiative
+2025-07-24 21:33:27,676 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:33:27,676 - INFO - Using custom pattern: .*
+2025-07-24 21:34:08,113 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:34:08,114 - INFO - Using custom pattern: production-initiative-master*
+2025-07-24 21:34:18,764 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:34:18,764 - INFO - Using custom pattern: production-initiative-master.*
+2025-07-24 21:34:19,483 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:34:19,483 - INFO - Using custom pattern: production-initiative-master.*
+2025-07-24 21:36:19,315 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:36:19,315 - INFO - Using custom pattern: production-.*initiative-master\.blend
+2025-07-24 21:36:38,768 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:36:38,768 - INFO - Using custom pattern: .*initiative
+2025-07-24 21:36:43,278 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:36:43,278 - INFO - Using custom pattern: .*
+2025-07-24 21:36:49,978 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:36:49,978 - INFO - Using custom pattern: .ini*
+2025-07-24 21:36:56,441 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:36:56,441 - INFO - Using custom pattern: .initiative*
+2025-07-24 21:36:57,411 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:36:57,411 - INFO - Using custom pattern: .initiative*
+2025-07-24 21:37:02,557 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:37:02,557 - INFO - Using custom pattern: .master*
+2025-07-24 21:37:08,139 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:37:08,139 - INFO - Using custom pattern: .ini*
+2025-07-24 21:37:33,313 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:37:33,313 - INFO - Using custom pattern: Jordan
+2025-07-24 21:38:03,073 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:38:03,074 - INFO - Using custom pattern: Jordan_Gamma_Window
+2025-07-24 21:38:21,026 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:38:21,026 - INFO - Using custom pattern: Jordan_Gamma_Window
+2025-07-24 21:38:36,869 - INFO - Found 44 collections in source X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\2_links\collectionMaster.blend
+2025-07-24 21:38:36,869 - INFO - Using custom pattern: Jordan_Gamma_Window
+2025-07-24 21:38:36,870 - WARNING - Missing blend for folder X:\LocalProduction\250723.01-nxstynate-sandbox\3_blender\Jordan_Gamma_Window
+2025-07-24 21:38:36,900 - INFO - Restored to default scene
+2025-07-24 21:38:36,900 - INFO - Completed: {'success': True, 'files_processed': 0, 'collections_linked': 0, 'collections_skipped': 0, 'missing_folders': ['1_merge', '2_links', 'Jordan_Gamma_ApparelWall', 'Jordan_Gamma_Cover_Up_Window', 'Jordan_Gamma_Fixtures', 'Jordan_Gamma_IZ', 'Jordan_Gamma_Wholesale', 'template'], 'missing_collections': [], 'link_errors': [], 'log_file': 'C:\\Users\\Paul\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\addons\\collection_batch_linker\\batch_link_log_20250724_213836.txt'}
