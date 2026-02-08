@@ -1,4 +1,4 @@
-$source = "$HOME/pro-env/files/blender/Blender/"
+$source = "$HOME/blender-env/files/blender/Blender/"
 $target = "$env:APPDATA/Blender Foundation/Blender"
 
 # Check if something exists at the target path
@@ -63,4 +63,4 @@ if (Test-Path $target)
 }
 
 # Script to make blender startup in full screen.
-Copy-Item "$HOME/pro-env/files/blender/startupScripts/fullscreen_startup.py" "$HOME/programs/Blender4.5/4.5/scripts/startup/."
+Copy-Item "$HOME/blender-env/files/blender/startupScripts/fullscreen_startup.py" "$HOME/programs/Blender4.5/4.5/scripts/startup/."
