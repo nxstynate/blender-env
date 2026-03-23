@@ -1,7 +1,7 @@
 # Installs Blender and sets up work environment.
 
 $ver = "4.5"
-$verSub = ".7"
+$verSub = ".8"
 $blenderPath = "$HOME/programs"
 $extension = ".zip"
 $package = "blender-$ver$verSub-windows-x64"
