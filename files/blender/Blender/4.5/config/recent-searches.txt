@@ -277,7 +277,6 @@ Curve ▸ Line
 Group ▸ Surface Solver
 Point ▸ Points to Vertices
 Point ▸position|Vector
- 0 Material
  0 Texture.002
    Floor
    Texture
@@ -973,9 +972,12 @@ Input ▸ RGB
 Input ▸ Fresnel
 Color ▸ RGB Curves
 Mesh ▸ Plane
-Custom ▸ Stack
 Texture ▸ Checker Texture
 Texture ▸ Noise Texture
 Texture ▸ Voronoi Texture
 Converter ▸ Color Ramp
 Mesh ▸ Monkey
+Custom ▸ Stack
+ 0 Material
+ 0 Material.002
+ 0 Material.001

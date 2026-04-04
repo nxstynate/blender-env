@@ -1,12 +1,12 @@
 [Bookmarks]
 [Recent]
 C:\Users\nate\programs\stack\
+C:\Users\nate\Desktop\
+X:\Dropbox\2_Library\3_lighting\hdri\mastering_cgi\
+X:\Dropbox\2_Library\2_textures\general\Scratches\
+X:\Dropbox\2_Library\2_textures\general\Finger_Prints\
+X:\Dropbox\2_Library\2_textures\general\Grunge\
 C:\Users\nate\Downloads\
 X:\LocalProduction\260317.01-azur-025nke-su26-atwo-retail-campaign\3_blender\su26ATwoNikeHOI\2_cam\
 X:\LocalProduction\260317.01-azur-025nke-su26-atwo-retail-campaign\3_blender\su26ATwoNikeHOIExterior\3_light\
 X:\LocalProduction\260317.01-azur-025nke-su26-atwo-retail-campaign\3_blender\su26ATwoNikeLasVegas\3_light\
-X:\LocalProduction\260317.01-azur-025nke-su26-atwo-retail-campaign\3_blender\su26ATwoNikeHOIExterior\1_model\7_initiative\
-X:\LocalProduction\250729.01-azur-fa25-nike-us-open-windows\3_blender\2_links\
-X:\LocalProduction\260317.01-azur-025nke-su26-atwo-retail-campaign\3_blender\2_links\
-X:\LocalProduction\250802.02-blackout-retail-nike-hoi-nyc\3_blender\nikeHOIExterior\1_model\1_env\
-X:\LocalProduction\250729.01-azur-fa25-nike-us-open-windows\3_blender\FA25_Nike_US_Open_Window_HOI\4_render\

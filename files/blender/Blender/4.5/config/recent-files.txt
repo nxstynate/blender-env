@@ -1,3 +1,4 @@
+C:\Users\nate\Desktop\test.blend
 X:\LocalProduction\260317.01-azur-025nke-su26-atwo-retail-campaign\3_blender\su26ATwoNikeHOI\2_cam\production-cam-master.blend
 X:\LocalProduction\260317.01-azur-025nke-su26-atwo-retail-campaign\3_blender\su26ATwoNikeHOIExterior\3_light\production-light-master.blend
 X:\LocalProduction\260317.01-azur-025nke-su26-atwo-retail-campaign\3_blender\2_links\collectionsMaster.blend
@@ -17,4 +18,3 @@ X:\LocalProduction\260321.01-blackout-retail-nike-las-vegas\3_blender\NikeLasVeg
 X:\LocalProduction\260317.01-azur-025nke-su26-atwo-retail-campaign\3_blender\su26ATwoNikeLasVegas\1_model\1_env\production-env-master.blend
 X:\LocalProduction\260317.01-azur-025nke-su26-atwo-retail-campaign\3_blender\su26ATwoNikeLasVegas\2_cam\production-cam-master.blend
 X:\LocalProduction\260321.01-blackout-retail-nike-las-vegas\3_blender\2_links\materials.blend
-X:\LocalProduction\260317.01-azur-025nke-su26-atwo-retail-campaign\1_docs\2_correspondence\2026-03-21-18-15-57\vegas-env-context.blend

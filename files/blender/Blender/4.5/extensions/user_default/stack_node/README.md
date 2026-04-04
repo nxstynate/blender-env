@@ -1,8 +1,14 @@
+<p align="center">
+    <img src="assets/stack_logo_transparent.svg" width="512">
+</p>
+
+---
+
 # Stack
 
 **Layer blending node for Blender's Shader Editor.**
 
-Stack adds a single node that lets you layer and blend textures with per-layer blend modes, opacity, and masking — similar to layer stacking in Photoshop or composite maps in other 3D tools.
+Stack adds a single node that lets you layer and blend textures with per-layer blend modes, opacity, and masking, similar to layer stacking in Photoshop or composite maps in other 3D tools.
 
 ---
 
@@ -16,6 +22,10 @@ Stack adds a single node that lets you layer and blend textures with per-layer b
 - **Reorderable** — move layers up and down in the stack
 - **Renamable** — give each layer a descriptive name
 - **Non-destructive** — editing layers preserves your connections and values
+
+<p align="center">
+    <img src="assets/stack-screenshot.webp" width="300">
+</p>
 
 ## Install
 
