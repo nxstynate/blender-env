@@ -1,0 +1,76 @@
+name: Run Generators
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'themes/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: 🏅 Checkout code
+        uses: actions/checkout@v3
+
+      - name: 🏅 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: 🏅 Install Python dependencies
+        run: pip install -r requirements.txt --root-user-action=ignore
+
+      - name: 🏅 Run Python scripts
+        run: python tools/pipe-generateJson.py
+
+      - name: 🏅 Generate JSON files
+        run: python tools/pipe-generateJsonFiles.py
+
+      - name: 🏅 Generate CSV
+        run: python tools/pipe-generateCsv.py
+
+      - name: 🏅 Generate Installers
+        run: python tools/pipe-generateShFiles.py
+
+      - name: 🏅 Update themes in Gogh file
+        run: python tools/pipe-updateThemes.py
+
+      - name: 🏅 Pipeline run date
+        run: python tools/pipe.py
+
+      - name: 🏅 Set up Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: 🏅 Run WCAG generator script with Deno
+        run: deno run --allow-all tools/pipe-generateWcag.js
+
+      - name: 🏅 Count total files in 'themes' directory
+        id: count_files
+        run: |
+          total_files=$(find themes -type f | wc -l)
+          echo "total_files=$total_files" >> $GITHUB_ENV
+
+      - name: 🏅 Create Release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ env.total_files }}
+          release_name: Themes ${{ env.total_files }}
+          body: "Release with ${{ env.total_files }} files in the 'themes' directory."
+          draft: false
+          prerelease: false
+
+      - name: 🏅 Commit and push changes
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: github-actions[bot]@github.com
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@github.com
+          git add .
+          git commit -m "Gogh 🤖"
+          git push

@@ -1,10 +1,10 @@
 bl_info = {
     "name": "ReMatcha",
     "author": "NXSTYNATE",
-    "version": (1, 1, 0),
+    "version": (1, 2, 0),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar > ReMatcha",
-    "description": "Regex-based material replacement tool",
+    "description": "Regex-based material replacement and cleanup tool",
     "category": "Material",
 }
 
@@ -106,6 +106,11 @@ class REMATCHA_Properties(PropertyGroup):
     progress: FloatProperty(default=0.0, min=0.0, max=1.0)
     status_message: StringProperty(default="")
     last_result: StringProperty(default="")
+
+    # Cleanup section
+    unused_materials: CollectionProperty(type=REMATCHA_MaterialItem)
+    unused_materials_index: IntProperty(name="Index", default=0)
+    cleanup_result: StringProperty(default="")
 
 
 # -----------------------------------------------------------------------------
@@ -480,7 +485,153 @@ class REMATCHA_OT_RefreshUsage(Operator):
 
 
 # -----------------------------------------------------------------------------
-# Panel
+# Cleanup Operators
+# -----------------------------------------------------------------------------
+
+
+class REMATCHA_OT_FindUnused(Operator):
+    """Find all materials with zero assignments"""
+
+    bl_idname = "rematcha.find_unused"
+    bl_label = "Find Unused Materials"
+    bl_description = "Find all materials that are not assigned to any object"
+    bl_options = {"REGISTER"}
+
+    def execute(self, context):
+        props = context.scene.rematcha
+        props.unused_materials.clear()
+        props.cleanup_result = ""
+
+        found_count = 0
+        for mat in bpy.data.materials:
+            usage = get_material_usage_count(mat)
+            if usage == 0:
+                mat.preview_ensure()
+
+                item = props.unused_materials.add()
+                item.name = mat.name
+                item.material = mat
+                item.selected = False
+                item.usage_count = 0
+
+                lib_name = get_material_library_name(mat)
+                if lib_name:
+                    item.library_name = lib_name
+                    item.is_linked = True
+                else:
+                    item.library_name = ""
+                    item.is_linked = False
+
+                found_count += 1
+
+        if found_count == 0:
+            self.report({"INFO"}, "No unused materials found")
+        else:
+            self.report({"INFO"}, f"Found {found_count} unused material(s)")
+
+        return {"FINISHED"}
+
+
+class REMATCHA_OT_SelectAllUnused(Operator):
+    """Select or deselect all unused materials"""
+
+    bl_idname = "rematcha.select_all_unused"
+    bl_label = "Select All Unused"
+    bl_description = "Select or deselect all unused materials"
+    bl_options = {"REGISTER", "UNDO"}
+
+    select: BoolProperty(default=True)
+
+    def execute(self, context):
+        props = context.scene.rematcha
+        for item in props.unused_materials:
+            item.selected = self.select
+        return {"FINISHED"}
+
+
+class REMATCHA_OT_RemoveUnused(Operator):
+    """Remove selected unused materials from the blend file"""
+
+    bl_idname = "rematcha.remove_unused"
+    bl_label = "Remove Selected"
+    bl_description = "Permanently remove selected unused materials from the blend file"
+    bl_options = {"REGISTER", "UNDO"}
+
+    @classmethod
+    def poll(cls, context):
+        props = context.scene.rematcha
+        return any(item.selected for item in props.unused_materials)
+
+    def invoke(self, context, event):
+        return context.window_manager.invoke_confirm(self, event)
+
+    def execute(self, context):
+        props = context.scene.rematcha
+
+        removed = []
+        skipped = []
+
+        # Collect materials to remove (iterate in reverse to avoid index issues)
+        mats_to_remove = []
+        for item in props.unused_materials:
+            if item.selected and item.material:
+                mats_to_remove.append((item.material, item.name, item.is_linked))
+
+        for mat, name, is_linked in mats_to_remove:
+            # Double-check it still has 0 uses before removing
+            if get_material_usage_count(mat) > 0:
+                skipped.append(f"{name} (now has assignments, skipped)")
+                continue
+
+            if is_linked:
+                skipped.append(f"{name} (linked, cannot remove)")
+                continue
+
+            try:
+                bpy.data.materials.remove(mat)
+                removed.append(name)
+            except Exception as e:
+                skipped.append(f"{name} (error: {e})")
+
+        # Build result message
+        result_lines = []
+        if removed:
+            result_lines.append(f"Removed {len(removed)} material(s):")
+            for name in removed:
+                result_lines.append(f"  {name}")
+        if skipped:
+            result_lines.append(f"Skipped {len(skipped)}:")
+            for msg in skipped:
+                result_lines.append(f"  {msg}")
+        if not removed and not skipped:
+            result_lines.append("Nothing to remove.")
+
+        props.cleanup_result = "\n".join(result_lines)
+        self.report({"INFO"}, f"Removed {len(removed)} material(s), skipped {len(skipped)}")
+
+        # Refresh the unused list
+        bpy.ops.rematcha.find_unused()
+
+        return {"FINISHED"}
+
+
+class REMATCHA_OT_ClearUnused(Operator):
+    """Clear the unused materials list"""
+
+    bl_idname = "rematcha.clear_unused"
+    bl_label = "Clear"
+    bl_description = "Clear the unused materials list"
+    bl_options = {"REGISTER"}
+
+    def execute(self, context):
+        props = context.scene.rematcha
+        props.unused_materials.clear()
+        props.cleanup_result = ""
+        return {"FINISHED"}
+
+
+# -----------------------------------------------------------------------------
+# Panels (parent + collapsible sub-panels)
 # -----------------------------------------------------------------------------
 
 
@@ -494,32 +645,40 @@ class REMATCHA_PT_MainPanel(Panel):
     bl_category = "ReMatcha"
 
     def draw(self, context):
+        pass
+
+
+class REMATCHA_PT_FindPanel(Panel):
+    """Find materials sub-panel"""
+
+    bl_label = "Find Materials"
+    bl_idname = "REMATCHA_PT_find"
+    bl_space_type = "VIEW_3D"
+    bl_region_type = "UI"
+    bl_category = "ReMatcha"
+    bl_parent_id = "REMATCHA_PT_main"
+    bl_options = {"DEFAULT_CLOSED"}
+
+    def draw(self, context):
         layout = self.layout
         props = context.scene.rematcha
 
-        # Regex search section
-        box = layout.box()
-        box.label(text="Find Materials", icon="VIEWZOOM")
-
-        row = box.row(align=True)
+        row = layout.row(align=True)
         row.prop(props, "regex_pattern", text="", icon="SORTBYEXT")
         row.operator("rematcha.search_materials", text="", icon="VIEWZOOM")
 
-        # Found materials list
         if props.found_materials:
-            # Header row with column labels
-            header = box.row()
+            header = layout.row()
             header.label(text=f"Found: {len(props.found_materials)}")
-            
-            # Column headers
-            header_row = box.row(align=True)
+
+            header_row = layout.row(align=True)
             split = header_row.split(factor=0.5)
             split.label(text="Material")
             right = split.row()
             right.label(text="Source")
             right.label(text="Uses")
 
-            box.template_list(
+            layout.template_list(
                 "REMATCHA_UL_MaterialList",
                 "",
                 props,
@@ -529,48 +688,53 @@ class REMATCHA_PT_MainPanel(Panel):
                 rows=6,
             )
 
-            # Selection buttons row
-            row = box.row(align=True)
+            row = layout.row(align=True)
             op = row.operator("rematcha.select_all", text="All")
             op.select = True
             op = row.operator("rematcha.select_all", text="None")
             op.select = False
             row.operator("rematcha.select_local", text="Local")
             row.operator("rematcha.select_linked", text="Linked")
-            
-            # Refresh button
-            row = box.row()
+
+            row = layout.row()
             row.operator("rematcha.refresh_usage", icon="FILE_REFRESH")
 
-        # Target material section
-        layout.separator()
-        box = layout.box()
-        box.label(text="Replace With", icon="MATERIAL")
-        
-        # Show material picker with preview if a material is selected
-        row = box.row(align=True)
+
+class REMATCHA_PT_ReplacePanel(Panel):
+    """Replace materials sub-panel"""
+
+    bl_label = "Replace Materials"
+    bl_idname = "REMATCHA_PT_replace"
+    bl_space_type = "VIEW_3D"
+    bl_region_type = "UI"
+    bl_category = "ReMatcha"
+    bl_parent_id = "REMATCHA_PT_main"
+    bl_options = {"DEFAULT_CLOSED"}
+
+    def draw(self, context):
+        layout = self.layout
+        props = context.scene.rematcha
+
+        row = layout.row(align=True)
         if props.target_material and props.target_material.preview and props.target_material.preview.icon_id:
             row.label(text="", icon_value=props.target_material.preview.icon_id)
         row.prop(props, "target_material", text="")
-        
-        # Show target material info
+
         if props.target_material:
-            info_row = box.row()
+            info_row = layout.row()
             target_lib = get_material_library_name(props.target_material)
             if target_lib:
                 info_row.label(text=f"Source: {target_lib}", icon="LINKED")
             else:
                 info_row.label(text="Source: Local", icon="FILE_BLEND")
-            
+
             usage = get_material_usage_count(props.target_material)
             info_row.label(text=f"Uses: {usage}")
 
-        # Count selected
         selected_count = sum(1 for item in props.found_materials if item.selected)
         if selected_count > 0:
-            box.label(text=f"{selected_count} material(s) selected for replacement")
+            layout.label(text=f"{selected_count} material(s) selected for replacement")
 
-        # Progress bar (shown during operation)
         if props.is_running:
             layout.separator()
             box = layout.box()
@@ -579,25 +743,86 @@ class REMATCHA_PT_MainPanel(Panel):
                 factor=props.progress, type="BAR", text=f"{int(props.progress * 100)}%"
             )
 
-        # Replace button
-        layout.separator()
         row = layout.row()
         row.scale_y = 1.5
         row.enabled = not props.is_running
         row.operator("rematcha.replace_materials", icon="FILE_REFRESH")
 
-        # Clear button
         row = layout.row()
         row.operator("rematcha.clear_results", icon="X")
 
-        # Results section
         if props.last_result:
             layout.separator()
             box = layout.box()
             box.label(text="Results", icon="INFO")
-
-            # Split result into lines and display
             for line in props.last_result.split("\n"):
+                if line.strip():
+                    box.label(text=line)
+
+
+class REMATCHA_PT_CleanupPanel(Panel):
+    """Material cleanup sub-panel"""
+
+    bl_label = "Material Cleanup"
+    bl_idname = "REMATCHA_PT_cleanup"
+    bl_space_type = "VIEW_3D"
+    bl_region_type = "UI"
+    bl_category = "ReMatcha"
+    bl_parent_id = "REMATCHA_PT_main"
+    bl_options = {"DEFAULT_CLOSED"}
+
+    def draw(self, context):
+        layout = self.layout
+        props = context.scene.rematcha
+
+        row = layout.row()
+        row.scale_y = 1.2
+        row.operator("rematcha.find_unused", icon="VIEWZOOM")
+
+        if props.unused_materials:
+            header = layout.row()
+            header.label(text=f"Unused: {len(props.unused_materials)}")
+
+            header_row = layout.row(align=True)
+            split = header_row.split(factor=0.5)
+            split.label(text="Material")
+            right = split.row()
+            right.label(text="Source")
+            right.label(text="Uses")
+
+            layout.template_list(
+                "REMATCHA_UL_MaterialList",
+                "unused",
+                props,
+                "unused_materials",
+                props,
+                "unused_materials_index",
+                rows=6,
+            )
+
+            row = layout.row(align=True)
+            op = row.operator("rematcha.select_all_unused", text="All")
+            op.select = True
+            op = row.operator("rematcha.select_all_unused", text="None")
+            op.select = False
+
+            unused_selected = sum(1 for item in props.unused_materials if item.selected)
+            if unused_selected > 0:
+                layout.label(text=f"{unused_selected} material(s) selected for removal")
+
+            row = layout.row()
+            row.scale_y = 1.5
+            row.alert = True
+            row.operator("rematcha.remove_unused", icon="CANCEL")
+
+            row = layout.row()
+            row.operator("rematcha.clear_unused", icon="X")
+
+        if props.cleanup_result:
+            layout.separator()
+            box = layout.box()
+            box.label(text="Cleanup Results", icon="INFO")
+            for line in props.cleanup_result.split("\n"):
                 if line.strip():
                     box.label(text=line)
 
@@ -617,7 +842,14 @@ classes = (
     REMATCHA_OT_ReplaceMaterials,
     REMATCHA_OT_ClearResults,
     REMATCHA_OT_RefreshUsage,
+    REMATCHA_OT_FindUnused,
+    REMATCHA_OT_SelectAllUnused,
+    REMATCHA_OT_RemoveUnused,
+    REMATCHA_OT_ClearUnused,
     REMATCHA_PT_MainPanel,
+    REMATCHA_PT_FindPanel,
+    REMATCHA_PT_ReplacePanel,
+    REMATCHA_PT_CleanupPanel,
 )
 
 

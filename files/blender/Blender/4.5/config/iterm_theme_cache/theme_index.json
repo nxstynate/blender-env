@@ -1,0 +1,3324 @@
+{
+  "themes": [
+    {
+      "name": "0x96f",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\0x96f.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "12-bit Rainbow",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\12-bit Rainbow.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "3024 Day",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\3024 Day.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "3024 Night",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\3024 Night.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Aardvark Blue",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Aardvark Blue.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Abernathy",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Abernathy.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Aci",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Aci.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Acme",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Acme.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Aco",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Aco.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "actions",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\actions.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Adventure",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Adventure.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Adventure Time",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Adventure Time.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Adwaita",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Adwaita.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Adwaita Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Adwaita Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Afterglow",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Afterglow.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Aizen Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Aizen Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Aizen Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Aizen Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Alabaster",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Alabaster.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Alien Blood",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Alien Blood.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Andromeda",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Andromeda.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Apple Classic",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Apple Classic.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Apple System Colors",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Apple System Colors.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Apple System Colors Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Apple System Colors Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Apprentice",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Apprentice.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Arc Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Arc Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Arc Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Arc Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Arcoiris",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Arcoiris.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ardoise",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Ardoise.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Argonaut",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Argonaut.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Arthur",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Arthur.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Astrodark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Astrodark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Atelier Cave",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Atelier Cave.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Atelier Dune",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Atelier Dune.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Atelier Estuary",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Atelier Estuary.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Atelier Forest",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Atelier Forest.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Atelier Heath",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Atelier Heath.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Atelier Lakeside",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Atelier Lakeside.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Atelier Plateau",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Atelier Plateau.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Atelier Savanna",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Atelier Savanna.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Atelier Seaside",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Atelier Seaside.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Atelier Sulphurpool",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Atelier Sulphurpool.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Atom",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Atom.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Atom One Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Atom One Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Atom One Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Atom One Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Aura",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Aura.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Aurora",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Aurora.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ayaka",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Ayaka.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Ayu",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Ayu.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ayu Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Ayu Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Ayu Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Ayu Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ayu Mirage",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Ayu Mirage.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Azu",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Azu.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Banana Blueberry",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Banana Blueberry.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Base2Tone Cave",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Cave.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Desert",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Desert.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Drawbridge",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Drawbridge.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Earth",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Earth.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Evening",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Evening.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Field",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Field.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Forest",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Forest.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Garden",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Garden.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Heath",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Heath.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Lake",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Lake.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Lavender",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Lavender.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Mall",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Mall.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Meadow",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Meadow.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Morning",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Morning.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Motel",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Motel.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Pool",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Pool.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Porch",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Porch.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Sea",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Sea.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Space",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Space.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base2Tone Suburb",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base2Tone Suburb.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic A",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic A.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic B",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic B.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic C",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic C.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic D",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic D.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic E",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic E.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic F",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic F.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic I",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic I.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic L",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic L.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic O",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic O.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic P",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic P.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic Q",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic Q.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic R",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic R.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic S",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic S.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic T",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic T.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic U",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic U.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Classic W",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Classic W.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Modern C",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Modern C.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Modern N",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Modern N.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Base4Tone Modern W",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Base4Tone Modern W.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Batman",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Batman.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Belafonte Day",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Belafonte Day.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Belafonte Night",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Belafonte Night.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Bim",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Bim.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Birds Of Paradise",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Birds Of Paradise.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Black Metal",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Black Metal.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Black Metal (Bathory)",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Black Metal (Bathory).itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Black Metal (Burzum)",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Black Metal (Burzum).itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Black Metal (Dark Funeral)",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Black Metal (Dark Funeral).itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Black Metal (Gorgoroth)",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Black Metal (Gorgoroth).itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Black Metal (Immortal)",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Black Metal (Immortal).itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Black Metal (Khold)",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Black Metal (Khold).itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Black Metal (Marduk)",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Black Metal (Marduk).itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Black Metal (Mayhem)",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Black Metal (Mayhem).itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Black Metal (Nile)",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Black Metal (Nile).itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Black Metal (Venom)",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Black Metal (Venom).itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Blazer",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Blazer.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Blue Berry Pie",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Blue Berry Pie.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Blue Dolphin",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Blue Dolphin.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Blue Matrix",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Blue Matrix.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Blue Moon",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Blue Moon.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Blue Moon Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Blue Moon Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Bluloco Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Bluloco Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Bluloco Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Bluloco Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Bluloco Zsh Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Bluloco Zsh Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Borland",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Borland.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Box",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Box.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "branch",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\branch.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Breadog",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Breadog.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Breath",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Breath.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Breath Darker",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Breath Darker.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Breath Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Breath Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Breath Silverfox",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Breath Silverfox.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Breeze",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Breeze.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Bright Lights",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Bright Lights.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Broadcast",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Broadcast.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Brogrammer",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Brogrammer.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Builtin Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Builtin Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Builtin Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Builtin Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Builtin Pastel Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Builtin Pastel Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Builtin Tango Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Builtin Tango Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Builtin Tango Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Builtin Tango Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Butrin",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Butrin.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "C64",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\C64.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Cai",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Cai.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Calamity",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Calamity.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Campbell",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Campbell.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Carbonfox",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Carbonfox.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Catppuccin Frappe",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Catppuccin Frappe.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Catppuccin Frapp\u00e9",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Catppuccin Frapp\u00e9.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Catppuccin Latte",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Catppuccin Latte.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Catppuccin Macchiato",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Catppuccin Macchiato.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Catppuccin Mocha",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Catppuccin Mocha.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "CGA",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\CGA.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Chalk",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Chalk.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Chalkboard",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Chalkboard.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Challenger Deep",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Challenger Deep.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Chameleon",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Chameleon.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Chester",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Chester.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ciapre",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Ciapre.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Citruszest",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Citruszest.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "City Lights",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\City Lights.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Clone Of Ubuntu",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Clone Of Ubuntu.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "CLRS",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\CLRS.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Cobalt 2",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Cobalt 2.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Cobalt Neon",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Cobalt Neon.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Cobalt Next",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Cobalt Next.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Cobalt Next Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Cobalt Next Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Cobalt Next Minimal",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Cobalt Next Minimal.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Cobalt2",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Cobalt2.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Coffee Theme",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Coffee Theme.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Colorcli",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Colorcli.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Crayon Pony Fish",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Crayon Pony Fish.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Cursor Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Cursor Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Cutie Pro",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Cutie Pro.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Cyberdyne",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Cyberdyne.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Cyberpunk",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Cyberpunk.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Cyberpunk Scarlet Protocol",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Cyberpunk Scarlet Protocol.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Dark Modern",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Dark Modern.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Dark Pastel",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Dark Pastel.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Dark+",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Dark+.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Darkermatrix",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Darkermatrix.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Darkmatrix",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Darkmatrix.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Darkside",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Darkside.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Dawnfox",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Dawnfox.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Dayfox",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Dayfox.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Deep",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Deep.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Dehydration",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Dehydration.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Desert",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Desert.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Detuned",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Detuned.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Dimidium",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Dimidium.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Dimmed Monokai",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Dimmed Monokai.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Dissonance",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Dissonance.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Django",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Django.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Django Reborn Again",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Django Reborn Again.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Django Smooth",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Django Smooth.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Doom One",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Doom One.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Doom Peacock",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Doom Peacock.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Dot Gov",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Dot Gov.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Dracula",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Dracula.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Dracula+",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Dracula+.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Duckbones",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Duckbones.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Duotone Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Duotone Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Duskfox",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Duskfox.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Earthsong",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Earthsong.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Electron Highlighter",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Electron Highlighter.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Elegant",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Elegant.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Elemental",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Elemental.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Elementary",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Elementary.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Elic",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Elic.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Elio",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Elio.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Embark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Embark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Embers Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Embers Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "ENCOM",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\ENCOM.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Espresso",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Espresso.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Espresso Libre",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Espresso Libre.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Everblush",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Everblush.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Everforest Dark Hard",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Everforest Dark Hard.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Everforest Dark Medium",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Everforest Dark Medium.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Everforest Dark Soft",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Everforest Dark Soft.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Everforest Light Hard",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Everforest Light Hard.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Everforest Light Med",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Everforest Light Med.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Everforest Light Medium",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Everforest Light Medium.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Everforest Light Soft",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Everforest Light Soft.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Fahrenheit",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Fahrenheit.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Fairy Floss",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Fairy Floss.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Fairy Floss Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Fairy Floss Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Fairyfloss",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Fairyfloss.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Farmhouse Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Farmhouse Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Farmhouse Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Farmhouse Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Fideloper",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Fideloper.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Firefly Traditional",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Firefly Traditional.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Firefox Dev",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Firefox Dev.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Firewatch",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Firewatch.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Fish Tank",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Fish Tank.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Fishtank",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Fishtank.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Flat",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Flat.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Flat Remix",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Flat Remix.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Flatland",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Flatland.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Flexoki Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Flexoki Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Flexoki Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Flexoki Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Floraverse",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Floraverse.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Forest Blue",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Forest Blue.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Foxnightly",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Foxnightly.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Framer",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Framer.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Freya",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Freya.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Front End Delight",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Front End Delight.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Frontend Delight",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Frontend Delight.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Frontend Fun Forrest",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Frontend Fun Forrest.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Frontend Galaxy",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Frontend Galaxy.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Fun Forrest",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Fun Forrest.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Galaxy",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Galaxy.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Galizur",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Galizur.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Geohot",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Geohot.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Ghostty Default Style Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Ghostty Default Style Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "GitHub",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\GitHub.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "GitHub Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\GitHub Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "GitHub Dark Colorblind",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\GitHub Dark Colorblind.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "GitHub Dark Default",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\GitHub Dark Default.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "GitHub Dark Dimmed",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\GitHub Dark Dimmed.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "GitHub Dark High Contrast",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\GitHub Dark High Contrast.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Github Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Github Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "GitHub Light Colorblind",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\GitHub Light Colorblind.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "GitHub Light Default",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\GitHub Light Default.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "GitHub Light High Contrast",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\GitHub Light High Contrast.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "GitLab Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\GitLab Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "GitLab Dark Grey",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\GitLab Dark Grey.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "GitLab Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\GitLab Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Glacier",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Glacier.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Gogh",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Gogh.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Gooey",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Gooey.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Google Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Google Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Google Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Google Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Gotham",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Gotham.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Grape",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Grape.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Grass",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Grass.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Grey Green",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Grey Green.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Gruber Darker",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Gruber Darker.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Gruvbox",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Gruvbox.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Gruvbox Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Gruvbox Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Gruvbox Dark Hard",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Gruvbox Dark Hard.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Gruvbox Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Gruvbox Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Gruvbox Light Hard",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Gruvbox Light Hard.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Gruvbox Material",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Gruvbox Material.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Gruvbox Material Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Gruvbox Material Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Gruvbox Material Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Gruvbox Material Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Guezwhoz",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Guezwhoz.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Hacktober",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Hacktober.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Hardcore",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Hardcore.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Harper",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Harper.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Havn Daggry",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Havn Daggry.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Havn Skumring",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Havn Skumring.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "HaX0R Blue",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\HaX0R Blue.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "HaX0R Gr33N",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\HaX0R Gr33N.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "HaX0R R3D",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\HaX0R R3D.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Heeler",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Heeler.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Hemisu Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Hemisu Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Hemisu Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Hemisu Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Highway",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Highway.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Hipster Green",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Hipster Green.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Hivacruz",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Hivacruz.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Homebrew",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Homebrew.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Homebrew Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Homebrew Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Homebrew Ocean",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Homebrew Ocean.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Hopscotch",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Hopscotch.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Hopscotch.256",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Hopscotch.256.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Horizon",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Horizon.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Horizon Bright",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Horizon Bright.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Horizon Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Horizon Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Hot Dog Stand",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Hot Dog Stand.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Hot Dog Stand (Mustard)",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Hot Dog Stand (Mustard).itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Hurtado",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Hurtado.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Hybrid",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Hybrid.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ibm 3270 (High Contrast)",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Ibm 3270 (High Contrast).yml",
+      "source": "gogh"
+    },
+    {
+      "name": "IBM 5153 CGA",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\IBM 5153 CGA.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "IBM 5153 CGA (Black)",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\IBM 5153 CGA (Black).itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ibm3270",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Ibm3270.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "IC Green PPL",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\IC Green PPL.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "IC Orange PPL",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\IC Orange PPL.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Iceberg",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Iceberg.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Iceberg Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Iceberg Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Iceberg Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Iceberg Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Idea",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Idea.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Idle Toes",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Idle Toes.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "IR Black",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\IR Black.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "IRIX Console",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\IRIX Console.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "IRIX Terminal",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\IRIX Terminal.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "iTerm2 Dark Background",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\iTerm2 Dark Background.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "iTerm2 Default",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\iTerm2 Default.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "iTerm2 Light Background",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\iTerm2 Light Background.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "iTerm2 Pastel Dark Background",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\iTerm2 Pastel Dark Background.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "iTerm2 Smoooooth",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\iTerm2 Smoooooth.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "iTerm2 Solarized Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\iTerm2 Solarized Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "iTerm2 Solarized Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\iTerm2 Solarized Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "iTerm2 Tango Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\iTerm2 Tango Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "iTerm2 Tango Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\iTerm2 Tango Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Jackie Brown",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Jackie Brown.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Japanesque",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Japanesque.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Jellybeans",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Jellybeans.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "JetBrains Darcula",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\JetBrains Darcula.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Jubi",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Jubi.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Jup",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Jup.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Kanagawa Dragon",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Kanagawa Dragon.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Kanagawa Lotus",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Kanagawa Lotus.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Kanagawa Wave",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Kanagawa Wave.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Kanagawabones",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Kanagawabones.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Kanso Ink",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Kanso Ink.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Kanso Mist",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Kanso Mist.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Kanso Pearl",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Kanso Pearl.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Kanso Zen",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Kanso Zen.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Kibble",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Kibble.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Kitty Default",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Kitty Default.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Kitty Low Contrast",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Kitty Low Contrast.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Kokuban",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Kokuban.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Kolorit",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Kolorit.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Konsolas",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Konsolas.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Kurokula",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Kurokula.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Lab Fox",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Lab Fox.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Laser",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Laser.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Laserwave",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Laserwave.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Later This Evening",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Later This Evening.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Lavandula",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Lavandula.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Light Owl",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Light Owl.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Liquid Carbon",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Liquid Carbon.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Liquid Carbon Transparent",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Liquid Carbon Transparent.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Lovelace",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Lovelace.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Lunaria Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Lunaria Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Lunaria Eclipse",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Lunaria Eclipse.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Lunaria Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Lunaria Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Maia",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Maia.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Man Page",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Man Page.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Mar",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Mar.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Mariana",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Mariana.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Material",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Material.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Material Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Material Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Material Darker",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Material Darker.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Material Design Colors",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Material Design Colors.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Material Ocean",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Material Ocean.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Mathias",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Mathias.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Matrix",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Matrix.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Matte Black",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Matte Black.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Medallion",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Medallion.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Melange Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Melange Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Melange Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Melange Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Mellifluous",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Mellifluous.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Mellow",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Mellow.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Miasma",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Miasma.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Midnight In Mojave",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Midnight In Mojave.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Minimalist Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Minimalist Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Mirage",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Mirage.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Miramare",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Miramare.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Misterioso",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Misterioso.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Modus Operandi",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Modus Operandi.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Modus Operandi Tinted",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Modus Operandi Tinted.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Modus Vivendi",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Modus Vivendi.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Modus Vivendi Tinted",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Modus Vivendi Tinted.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Molokai",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Molokai.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Mona Lisa",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Mona Lisa.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Mono Amber",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Mono Amber.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Mono Cyan",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Mono Cyan.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Mono Green",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Mono Green.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Mono Red",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Mono Red.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Mono White",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Mono White.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Mono Yellow",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Mono Yellow.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Monokai Classic",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Monokai Classic.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Monokai Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Monokai Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Monokai Pro",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Monokai Pro.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Monokai Pro Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Monokai Pro Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Monokai Pro Light Sun",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Monokai Pro Light Sun.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Monokai Pro Machine",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Monokai Pro Machine.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Monokai Pro Octagon",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Monokai Pro Octagon.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Monokai Pro Ristretto",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Monokai Pro Ristretto.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Monokai Pro Spectrum",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Monokai Pro Spectrum.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Monokai Remastered",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Monokai Remastered.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Monokai Soda",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Monokai Soda.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Monokai Vivid",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Monokai Vivid.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Moonfly",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Moonfly.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Morada",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Morada.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "N0Tch2K",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\N0Tch2K.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Nanosecond",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Nanosecond.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Neobones Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Neobones Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Neobones Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Neobones Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Neon",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Neon.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Neon Night",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Neon Night.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Neopolitan",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Neopolitan.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Nep",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Nep.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Neutron",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Neutron.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Night Lion V1",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Night Lion V1.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Night Lion V2",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Night Lion V2.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Night Owl",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Night Owl.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Night Owlish Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Night Owlish Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Nightfly",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Nightfly.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Nightfox",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Nightfox.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Nightlion V1",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Nightlion V1.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Nightlion V2",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Nightlion V2.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Nighty",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Nighty.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Niji",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Niji.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "No Clown Fiesta",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\No Clown Fiesta.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "No Clown Fiesta Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\No Clown Fiesta Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Nocturnal Winter",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Nocturnal Winter.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Nord",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Nord.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Nord Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Nord Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Nord Wave",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Nord Wave.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Nordfox",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Nordfox.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Novel",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Novel.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "novmbr",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\novmbr.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Nvim Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Nvim Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Nvim Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Nvim Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Obsidian",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Obsidian.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ocean",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Ocean.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ocean Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Ocean Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Oceanic Material",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Oceanic Material.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Oceanic Next",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Oceanic Next.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ollie",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Ollie.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Omni",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Omni.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "One Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\One Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "One Dark Two",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\One Dark Two.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "One Double Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\One Double Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "One Double Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\One Double Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "One Half Black",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\One Half Black.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "One Half Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\One Half Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "One Half Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\One Half Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "One Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\One Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Onenord",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Onenord.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Onenord Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Onenord Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Operator Mono Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Operator Mono Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Overnight Slumber",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Overnight Slumber.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "owl",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\owl.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Oxocarbon",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Oxocarbon.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Oxocarbon Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Oxocarbon Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Pale Night Hc",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Pale Night Hc.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Palenight",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Palenight.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Pali",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Pali.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Panda",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Panda.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Pandora",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Pandora.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Paper",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Paper.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Papercolor Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Papercolor Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Papercolor Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Papercolor Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Paraiso Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Paraiso Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Paul Millr",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Paul Millr.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Pencil Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Pencil Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Pencil Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Pencil Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Peppermint",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Peppermint.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Phala Green Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Phala Green Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Piatto Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Piatto Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Pixiefloss",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Pixiefloss.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Pnevma",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Pnevma.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Poimandres",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Poimandres.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Poimandres Darker",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Poimandres Darker.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Poimandres Storm",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Poimandres Storm.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Poimandres White",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Poimandres White.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Popping And Locking",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Popping And Locking.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Powershell",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Powershell.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Predawn",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Predawn.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Primary",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Primary.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Pro",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Pro.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Pro Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Pro Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Purple People Eater",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Purple People Eater.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Purple Rain",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Purple Rain.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Purplepeter",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Purplepeter.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Quiet",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Quiet.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Rapture",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Rapture.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Raycast Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Raycast Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Raycast Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Raycast Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Rebecca",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Rebecca.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Red Alert",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Red Alert.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Red Planet",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Red Planet.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Red Sands",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Red Sands.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Relaxed",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Relaxed.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Retro",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Retro.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Retro Legends",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Retro Legends.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Rippedcasts",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Rippedcasts.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Rose Pine",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Rose Pine.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Rose Pine Dawn",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Rose Pine Dawn.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Rose Pine Moon",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Rose Pine Moon.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ros\u00e9 Pine",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Ros\u00e9 Pine.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Ros\u00e9 Pine Dawn",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Ros\u00e9 Pine Dawn.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Ros\u00e9 Pine Moon",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Ros\u00e9 Pine Moon.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Rouge 2",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Rouge 2.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Royal",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Royal.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ryuuko",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Ryuuko.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Sakura",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Sakura.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Sat",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Sat.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Scarlet Protocol",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Scarlet Protocol.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "schemes",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\schemes.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Sea Shells",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Sea Shells.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Seafoam Pastel",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Seafoam Pastel.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Selenized Black",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Selenized Black.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Selenized Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Selenized Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Selenized Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Selenized Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Selenized White",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Selenized White.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Seoul256",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Seoul256.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Seoul256 Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Seoul256 Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Seoulbones Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Seoulbones Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Seoulbones Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Seoulbones Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Seti",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Seti.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Shades Of Purple",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Shades Of Purple.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Shaman",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Shaman.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Shel",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Shel.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Slate",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Slate.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Sleepy Hollow",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Sleepy Hollow.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Smyck",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Smyck.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Snazzy",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Snazzy.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Snazzy Soft",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Snazzy Soft.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Soft Server",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Soft Server.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Solarized Darcula",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Solarized Darcula.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Solarized Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Solarized Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Solarized Dark Higher Contrast",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Solarized Dark Higher Contrast.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Solarized Dark Patched",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Solarized Dark Patched.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Solarized Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Solarized Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Solarized Osaka Night",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Solarized Osaka Night.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Sonokai",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Sonokai.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Spacedust",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Spacedust.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Spacegray",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Spacegray.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Spacegray Bright",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Spacegray Bright.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Spacegray Eighties",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Spacegray Eighties.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Spacegray Eighties Dull",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Spacegray Eighties Dull.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Sparky",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Sparky.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Spiderman",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Spiderman.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Spring",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Spring.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Square",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Square.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Squirrelsong Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Squirrelsong Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Srcery",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Srcery.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "stale-bot",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\stale-bot.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Starlight",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Starlight.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Sublette",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Sublette.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Subliminal",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Subliminal.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Sugarplum",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Sugarplum.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Summer Pop",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Summer Pop.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Sundried",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Sundried.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Sunset Drive",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Sunset Drive.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Sweet Eliverlara",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Sweet Eliverlara.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Sweet Terminal",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Sweet Terminal.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Symfonic",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Symfonic.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Symphonic",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Symphonic.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Synthwave",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Synthwave.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Synthwave Alpha",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Synthwave Alpha.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Synthwave Everything",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Synthwave Everything.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Tango Adapted",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Tango Adapted.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Tango Half Adapted",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Tango Half Adapted.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Tearout",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Tearout.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Teerb",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Teerb.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Tempus Autumn",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Autumn.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Classic",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Classic.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Dawn",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Dawn.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Day",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Day.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Dusk",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Dusk.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Fugit",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Fugit.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Future",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Future.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Night",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Night.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Past",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Past.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Rift",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Rift.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Spring",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Spring.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Summer",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Summer.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Tempest",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Tempest.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Totus",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Totus.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Warp",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Warp.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tempus Winter",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tempus Winter.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tender",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tender.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Terafox",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Terafox.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Terminal Basic",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Terminal Basic.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Terminal Basic Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Terminal Basic Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Terminix Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Terminix Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Thayer Bright",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Thayer Bright.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "The Hulk",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\The Hulk.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Tin",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tin.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tinacious Design Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Tinacious Design Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Tinacious Design Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Tinacious Design Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Tiwahu Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tiwahu Dark.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tiwahu Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tiwahu Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tokyo Night",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tokyo Night.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tokyo Night Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tokyo Night Light.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Tokyo Night Storm",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Tokyo Night Storm.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "TokyoNight",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\TokyoNight.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "TokyoNight Day",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\TokyoNight Day.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "TokyoNight Moon",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\TokyoNight Moon.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "TokyoNight Night",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\TokyoNight Night.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "TokyoNight Storm",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\TokyoNight Storm.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Tomorrow",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Tomorrow.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Tomorrow Night",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Tomorrow Night.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Tomorrow Night Blue",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Tomorrow Night Blue.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Tomorrow Night Bright",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Tomorrow Night Bright.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Tomorrow Night Burns",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Tomorrow Night Burns.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Tomorrow Night Eighties",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Tomorrow Night Eighties.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Toy Chest",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Toy Chest.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "traffic",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\traffic.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Treehouse",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Treehouse.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Twilight",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Twilight.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ubuntu",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Ubuntu.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ultra Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Ultra Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ultra Violent",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Ultra Violent.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Under The Sea",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Under The Sea.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Unikitty",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Unikitty.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Ura",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Ura.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "urban",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\urban.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Urple",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Urple.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Vacme",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Vacme.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Vag",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Vag.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Vague",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Vague.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Vaombe",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Vaombe.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Vaughn",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Vaughn.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Vercel",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Vercel.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Vesper",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Vesper.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Vibrant Ink",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Vibrant Ink.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Vimbones",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Vimbones.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Violet Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Violet Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Violet Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Violet Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Violite",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Violite.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Vs Code Dark+",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Vs Code Dark+.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Vs Code Light+",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Vs Code Light+.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Warm Neon",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Warm Neon.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Website",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Website.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Wez",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Wez.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Whimsy",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Whimsy.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Wild Cherry",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Wild Cherry.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Wilmersdorf",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Wilmersdorf.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Wombat",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Wombat.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Wryan",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Wryan.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Wzoreck",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\gogh\\Wzoreck.yml",
+      "source": "gogh"
+    },
+    {
+      "name": "Xcode Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Xcode Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Xcode Dark hc",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Xcode Dark hc.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Xcode Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Xcode Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Xcode Light hc",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Xcode Light hc.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Xcode WWDC",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Xcode WWDC.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Zenbones",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Zenbones.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Zenbones Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Zenbones Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Zenbones Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Zenbones Light.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Zenburn",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Zenburn.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Zenburned",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Zenburned.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Zenwritten Dark",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Zenwritten Dark.itermcolors",
+      "source": "iterm"
+    },
+    {
+      "name": "Zenwritten Light",
+      "path": "C:\\Users\\nate\\AppData\\Roaming\\Blender Foundation\\Blender\\4.5\\config\\iterm_theme_cache\\iterm\\Zenwritten Light.itermcolors",
+      "source": "iterm"
+    }
+  ],
+  "last_updated": 1771184111.1119928,
+  "sources": [
+    "iterm",
+    "gogh"
+  ]
+}

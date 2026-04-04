@@ -391,7 +391,7 @@
         face_select="#cb9f4540"
         face_mode_select="#ffb70033"
         face_dot="#cb9f45"
-        facedot_size="4"
+        facedot_size="3"
         freestyle_face_mark="#a16e8466"
         face_retopology="#50c8ff0f"
         face_back="#cb9f451a"

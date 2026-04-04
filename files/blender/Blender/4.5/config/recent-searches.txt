@@ -2,7 +2,6 @@ Color ▸ Adjust ▸ Hue/Saturation/Value
    black-gloss-001
 Color ▸ Adjust ▸ Brightness/Contrast
 Color ▸ Adjust ▸ Exposure
-   Render Result
    snow-mound-001
  0 fog
    Viewer Node
@@ -183,7 +182,6 @@ copic-markers
    Material.Glazing
    metal-painted-black-001.001
    plastic-rubber-001
-Mesh ▸ Cylinder
    Material.Vivariums
    neon-purple-002
  0 Rough_Asphalt_wjvnagr
@@ -203,7 +201,6 @@ AM106_50_04_proxy
  0 grass-001
  0 metal-painted-white-001
  0 fence-001
-   Metal
    Aluminum
  0 concrete-001
  0 metal-painted-green-001
@@ -249,7 +246,6 @@ Point ▸v|Float
 v
 grow
 texture
-Input ▸ Constant ▸ Value
 Geometry ▸ Read ▸ Named Attribute
 Point ▸texture|Float
 Group ▸ Noise Field
@@ -324,14 +320,12 @@ Unassigned ▸ Geometry Nodes
   Sphere
    Material.003
 Generate ▸ Array
-   wood-001
   radial-wave
 Edit ▸ Vertex Weight Proximity
   control
 Generate ▸ Mask
    apparel-001
    white
-   black
 Mesh ▸ Primitives ▸ Ico Sphere
 Curve ▸ Primitives ▸ Curve Line
 Mesh ▸ Primitives ▸ Mesh Line
@@ -346,7 +340,6 @@ Physics ▸ Particle System
 Input ▸ Point Info
 Input ▸ Curves Info
 Input ▸ Volume Info
-Texture ▸ Checker Texture
 Attribute ▸ Capture Attribute
 Attribute ▸ Store Named Attribute
 COL
@@ -383,10 +376,6 @@ Mesh ▸ Circle
    neon-red-001
    fabric-desert-red.001
    fabric-lavendar-lux.001
-Geometry ▸ Operations ▸ Duplicate Elements
-Geometry ▸ Geometry to Instance
-Geometry ▸ Write ▸ Set Position
-Utilities ▸ Vector ▸ Combine XYZ
   vg
 241001.01-azur-lululemon
    granite-001
@@ -456,14 +445,12 @@ Shader ▸ Diffuse BSDF
    paint-bahc-blue-001
    tv-screen-001
    paint-white-001
-Geometry ▸ Operations ▸ Transform Geometry
    metal-black-001
   focPnt
    wood-veneer-oak-001
 L  metal-painted-black-001|[material-stage.blend]
    office-chair-foreground
    metal-painted-black-expanded-steel-001
-Converter ▸ Blackbody
    neon-yellow-001
 L  solid-reeded-tex-gradient-001|[lululemon-materials.blend]
 Mesh ▸ UV ▸ UV Unwrap
@@ -501,7 +488,6 @@ L  neon-white-001|[azur-lll-sp25train-kit-of-parts.blend]
    neon-white-001
    Kattee Leather Imprint
 Input ▸ Constant ▸ Integer
-Output ▸ Viewer
   Source Point
 Utilities ▸ Color ▸ Color Ramp
 beats-498-beige
@@ -515,7 +501,6 @@ Input ▸ Ambient Occlusion
  0 metal-gold-001
    metal-gold-001
 Curve ▸ Curve Profiles ▸ Cycloid
-Input ▸ Bevel
    weathering-blender-template-001
  F metal-gold-001
  F metal-iron-001
@@ -526,7 +511,6 @@ Input ▸ Bevel
  F metal-painted-black-001
    fabric-striped-black-and-white-001
 Transform ▸ Scale
-Input ▸ Image
 Color ▸ Mix ▸ Alpha Over
 Mesh ▸ Torus
 ParticleSystem
@@ -564,7 +548,6 @@ LGT-Normal
   Plane.007
 Filter ▸ Glare
    fire
-Color Ramp ▸ Fac
 Pergola
    matte-white-001
 Input ▸ Wireframe
@@ -572,8 +555,6 @@ Add Modifier ▸ Geometry Nodes
    fabric-striped-black-and-white-001.001
 Shader ▸ Translucent BSDF
 Shader ▸ Transparent BSDF
-Vector ▸ Normal
-   Material.001
    Material
 Mesh ▸ UV Sphere
 Generate ▸ Mirror
@@ -594,16 +575,13 @@ Edit ▸ Batch Rename...|Ctrl F2
    gloss-black-001
  0 mannequin-001
  0 glass-lens-001
-Input ▸ Fresnel
 Shader ▸ Volume Scatter
    pearl1
 Shader ▸ Glass BSDF
    glass-topper-001
-Input ▸ RGB
 Shader ▸ Emission
    matte-grey
    2_floor
-Texture ▸ Gradient Texture
    mirror-001
 L  glass-clear-001|[mat-glass-241205.blend]
    product-shoe-white-001
@@ -626,7 +604,6 @@ Converter ▸ Combine Color
    glass-lens-001
    metal-shiny-001
 Plant-A-001
-Normal ▸ Normal
 plant
  F metal-iron-stainless-steel-brushed-001
 Mesh ▸ Primitives ▸ Grid
@@ -647,12 +624,9 @@ Round-Pedestal-Option-03-Cut
    stone-medium-001
    stone-light-001.002
    metal-stainless-steel-001.002
-Color ▸ Gamma
-Texture ▸ Environment Texture
    plinths.001
    plinths.002
    Screenshot 2024-01-03 at 3.16.47 PM
-Color ▸ Hue/Saturation/Value
    suede-001
  0 World.001
  0 FabricSuede015_2K
@@ -693,22 +667,14 @@ L  gradient-illuminated-001|[jfeMaterials.blend]
    Mirror_Black
   Empty
 0 Empty
-
 Group ▸ Particle Source
 Group ▸ Particle Solver
 Group ▸ Wind Force
 Empty ▸ Sphere
 Group ▸ Sphereical Field
   ParticleNull
-Utilities ▸ Math ▸ Math
 Group ▸ Turbulence Force
-Texture ▸ Noise Texture
-Texture ▸ Voronoi Texture
 Converter ▸ Vector Math
-Converter ▸ Mix
-Color ▸ Mix Color
-Vector ▸ Normal Map
-  focusPoint
    Particle
 Input ▸ Particle Info
 Utilities ▸ Switch
@@ -721,10 +687,6 @@ Input ▸ Constant ▸ Vector
 Utilities ▸ Vector ▸ Vector Math
 Geometry ▸ Operations ▸ Bake
 Input ▸ Object Info
-Color ▸ RGB Curves
-Mesh ▸ Primitives ▸ Cube
-Instances ▸ Realize Instances
-Shader ▸ Principled BSDF
 Shader ▸ Mix Shader
    Jordan-Trunner-Fixtures-Pedestal-Takedown.002
 Deform ▸ Shrinkwrap
@@ -756,20 +718,14 @@ Pedestal_004
    Pedestal_003
    Pedestal_004
    charcoal_swatch_001
-Converter ▸ Math
   Chain
   CurveInstancer
-Instances ▸ Instance on Points
 Mesh ▸ Primitives ▸ UV Sphere
-Geometry ▸ Join Geometry
 Utilities ▸ Rotation ▸ Euler to Rotation
 Utilities ▸ Deprecated ▸ Align Euler to Vector
 Curve ▸ Read ▸ Curve Tangent
 Curve ▸ Operations ▸ Resample Curve
 Mesh ▸ Write ▸ Set Shade Smooth
-Material ▸ Set Material
-Object ▸ Apply (Ctrl A) ▸ Make Instances Real
-L0 HDRI_Light_Master|[production-light-master.blend]
 ApparelWallGlorifierTable
 heir_series_pedestal_elevated
 heir_series_pedestal_scaled
@@ -785,7 +741,6 @@ L0 InfraredMatte|[materials.blend]
    Material2
 L0 glass-clear-001|[materials.blend]
 L  glass-clear-001|[materials.blend]
-Generate ▸ Bevel
 L  InfraredGloss|[materials.blend]
 L  BlackGloss|[materials.blend]
 L  BlackMatte|[materials.blend]
@@ -793,41 +748,234 @@ L  JordanGG_MetalSS|[materials.blend.001]
 L  InfraredMatte|[materials.blend]
 File ▸ Import ▸ FBX (.fbx)
 infrared_FootwearZone_FWW.001
-Add ▸ Collection Instance...
 heirSeries_FootwearZone_FWW.001
 File ▸ Import ▸ Autodesk 3DS (.3ds)
 File ▸ Import ▸ FBX (.fbx) (experimental)
-Mesh ▸ Monkey
-UVMap
 L  RedHeat_001|[Materials.blend]
 L  glass-clear-001|[Materials.blend]
    fixture-mann-platforms-lifestyle_womens
    fixture-mann-platforms-001
    fixture-mann-platforms-002
    fixture-mann-platforms-nologo-001
-File ▸ Import ▸ SketchUp (.skp)
-Object ▸ SketchUp Cleanup
    fw_riser.001
    plaque.001
    plaque.002
-Vector ▸ Bump
 Mesh ▸ Parent to Empty
-Mesh ▸ Plane
 Light ▸ Spot
-Save, Open, Append (Ctrl S) ▸ Append
-Texture ▸ Image Texture
-Deform ▸ Displace
-Light ▸ Area
-Converter ▸ Color Ramp
 Normals ▸ Weighted Normal
 Generate ▸ Triangulate
 Generate ▸ Remesh
-Generate ▸ Solidify
-Mesh ▸ Cube
-Object ▸ Set Origin ▸ Origin to Geometry
 Generate ▸ Subdivision Surface
-Generate ▸ Boolean
-Save, Open, Append (Ctrl S) ▸ Link
-File ▸ Export ▸ FBX (.fbx)
    fixture-mann-platforms-lifestyle_mens
 File ▸ Import ▸ Wavefront (.obj)
+base-setup
+base.001
+backwall.001
+mirror-back.001
+mirror-left.001
+mirror-right.001
+fabric-sculpture.001
+   backwall.002
+lightbox-ceiling-002
+   lightbox-ceiling-002
+   backwall.004
+   backwall.003
+   emissive-scrim-002.001
+Color ▸ Mix Color ▸ Saturation
+   fabric_black_001
+Empty ▸ Plain Axes
+   [Metal Corrugated Shiny]
+   backwall.005.0
+   lightbox-ceiling-001
+   yoga-mat-orange
+   mann-walls.001
+   Material.001
+Window ▸ Toggle System Console
+File ▸ Export ▸ Autodesk 3DS (.3ds)
+  focusPoint
+   facelit-white
+   Render Result
+Object ▸ Apply (Ctrl A) ▸ Make Instances Real
+Generate ▸ Boolean
+Generate ▸ Solidify
+mann-elbow-stand
+   wall-white-001
+   Color_Black
+   mann-platform-orange
+   wood-001
+Shaders Plus ▸ Glass Presets ▸ Glass Plus Base Shader
+   Material7
+Converter ▸ Math ▸ Truncate
+   black
+   shoe-sole-side
+   glass-smoked-frosted
+L  Concrete|[collectionsMaster.blend]
+File ▸ Export ▸ SketchUp (.skp)
+   EmissiveLight.001
+   black metal1
+Converter ▸ Blackbody
+Input ▸ Value
+   Illuminated Lighting - Secondary
+   SQUARE GRID1.001
+   ConcretePaintedBlack
+Color ▸ Gamma
+L0 HDRI_Light_Master|[production-light-master.blend]
+   concrete-clean-001
+   Material7.001
+Empty ▸ Cube
+Texture ▸ Environment Texture
+File ▸ Import ▸ SketchUp (.skp)
+Object ▸ SketchUp Cleanup
+   RED STAIN PLY
+   RED STAIN PLY.001
+   Metal-Aluminum
+   WHEATPASTE_2 copy
+   Speakers - Soul tower
+   JordanRedEmissive
+ceiling.001
+exterior-graphics
+constr.001
+fix-floor.001
+floor.001
+fix-wall.001
+fww.001
+soul-tower.001
+Mesh ▸ Cube
+Normal ▸ Normal
+   WoodFloor-001
+   WoodFloor-002
+concrete-walls-original
+concrete-walls-charcoal
+   floor-painted-charcoal-floor
+ceiling-lights
+concrete-walls-medium
+   EmissiveLight.002
+   ConcretePaintedWhite
+   concrete-walls-medium
+   concrete-walls-charcoal
+   ConcretePaintedGrey.002
+   ceiling-baffles.001
+   ceiling-baffles.002
+   ceiling-baffles.003
+hvac.002
+hvac.003
+hvac.001
+   wood-flywood
+   Illuminated Lighting
+   Texture_Metal+Blueing_Light.002
+   Plywood-Red-Stain
+   Jordan red
+   Acryllic.001
+   MetalPaintedRed
+   Metal
+   soul-tower.002
+   W_Sweatshirt_HJ1323_Pink1.001
+   Material5.001
+   W_Sweatshirt_HJ1323_Cream.001
+   W_Sweatshirt_HJ1323_Black1.001
+   Material186.001
+   W_Pants_HJ1326_Pink.001
+   M_Shorts_BBall_Brown.001
+   15.001
+   Material148.001
+   M_Hoodie_PO_FV8606_Pink1.001
+   M_Hoodie_Style_A_Brown.001
+   W_Pants_HJ1326_Blk.001
+   W_Pants_HJ1326_Brown.001
+   Material35.001
+   Material33.001
+   MetalPaintedBlack
+   M_TShirt_FZ1931_Blk.001
+   W_Sweatshirt_HJ1323_Blk.001
+   W_Pant_Long_HJ1326_MASTER_Black.001
+   W_Pants_HJ1326_Wht.001
+   Material15
+   floor-medium-tinted-floor
+   concrete-walls-original
+   hvac.003
+   ceiling-medium
+   ceiling-charcoal
+   ConcretePaintedGrey
+   ConcretePaintedGrey.003
+   EmissiveCubby.001
+Save, Open, Append (Ctrl S) ▸ Link
+   ConcretePaintedGrey.001
+Light ▸ Area
+Save, Open, Append (Ctrl S) ▸ Append
+ 0 weathering-blender-template-001
+Color Ramp ▸ Fac
+Input ▸ Bevel
+Converter ▸ Mix
+Color ▸ Mix Color
+Color ▸ Hue/Saturation/Value
+Converter ▸ Separate XYZ
+Converter ▸ Separate Color
+Shader ▸ Principled BSDF
+Edit ▸ UV Project
+UVMap
+Edit ▸ UV Warp
+Add ▸ Collection Instance...
+cinder-block
+   ConcretePaintedRed
+   entry-option-03
+Mesh ▸ Primitives ▸ Cube
+Geometry ▸ Operations ▸ Transform Geometry
+Instances ▸ Instance on Points
+Geometry ▸ Operations ▸ Duplicate Elements
+Geometry ▸ Geometry to Instance
+Geometry ▸ Write ▸ Set Position
+Utilities ▸ Math ▸ Math
+Geometry ▸ Join Geometry
+Input ▸ Constant ▸ Value
+Utilities ▸ Vector ▸ Combine XYZ
+Material ▸ Set Material
+   metal-square-grid
+Instances ▸ Realize Instances
+File ▸ Import ▸ Autodesk MAX (.max)
+Texture ▸ Image Texture
+Vector ▸ Normal
+Vector ▸ Normal Map
+Input ▸ Geometry ▸ Normal
+Input ▸ Texture Coordinate ▸ Normal
+Generate ▸ Bevel
+Deform ▸ Displace
+Input ▸ Image
+Mask ▸ Cryptomatte
+Output ▸ Viewer
+Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
+Auto Boolean (Shift Ctrl B) ▸ Difference|Ctrl Numpad -
+Save, Open, Append (Ctrl S) ▸ Import
+File ▸ Import ▸ STL (.stl)
+Object ▸ Set Origin ▸ Origin to Geometry
+ F Chipboard004_4K-JPG_NORMAL.001
+File ▸ Export ▸ FBX (.fbx)
+File ▸ Export ▸ STL (.stl)
+Group ▸ RGB
+ 0 Nike Curtains
+L  fabric-curtains-burgundy-001|[materials.blend]
+ 0 Nike Glow Pink
+L0 nike-glow-pink-001|[materials.blend]
+   LEM_Yellow Dome Glow
+Vector ▸ Bump
+   can-aluminum-001
+   can-graphic-001.001
+   blue.001
+   black-plastic-001
+File ▸ Defaults ▸ Save Startup File
+Texture ▸ Gradient Texture
+
+Mesh ▸ Cylinder
+Converter ▸ Math ▸ Compare
+Converter ▸ RGB to BW
+Custom ▸ Composite
+Converter ▸ Math
+Input ▸ RGB
+Input ▸ Fresnel
+Color ▸ RGB Curves
+Mesh ▸ Plane
+Custom ▸ Stack
+Texture ▸ Checker Texture
+Texture ▸ Noise Texture
+Texture ▸ Voronoi Texture
+Converter ▸ Color Ramp
+Mesh ▸ Monkey
