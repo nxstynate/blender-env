@@ -36,13 +36,18 @@ class STACK_OT_add_layer(Operator):
             self.report({'ERROR'}, "Node not found")
             return {'CANCELLED'}
 
-        layer = node.layers.add()
-        idx = len(node.layers) - 1
-        layer.layer_index = idx
-        layer.layer_name = f"Layer {idx}"
-        layer.blend_mode = "MIX"
-        layer.opacity = 1.0
-        layer.enabled = True
+        from . import node as node_mod
+        node_mod._suppress_updates = True
+        try:
+            layer = node.layers.add()
+            idx = len(node.layers) - 1
+            layer.layer_index = idx
+            layer.layer_name = f"Layer {idx}"
+            layer.blend_mode = "MIX"
+            layer.opacity = 1.0
+            layer.enabled = True
+        finally:
+            node_mod._suppress_updates = False
 
         node.add_layer_to_group(idx)
         node.rebuild_internals()
@@ -80,9 +85,14 @@ class STACK_OT_remove_layer(Operator):
             else:
                 old_to_new[old_i] = old_i - 1
 
-        node.layers.remove(removed)
-        for i, layer in enumerate(node.layers):
-            layer.layer_index = i
+        from . import node as node_mod
+        node_mod._suppress_updates = True
+        try:
+            node.layers.remove(removed)
+            for i, layer in enumerate(node.layers):
+                layer.layer_index = i
+        finally:
+            node_mod._suppress_updates = False
 
         node.rebuild_group(old_to_new=old_to_new)
         return {'FINISHED'}
@@ -118,10 +128,14 @@ class STACK_OT_move_layer(Operator):
         old_to_new[idx] = new_idx
         old_to_new[new_idx] = idx
 
-        node.layers.move(idx, new_idx)
-
-        for i, layer in enumerate(node.layers):
-            layer.layer_index = i
+        from . import node as node_mod
+        node_mod._suppress_updates = True
+        try:
+            node.layers.move(idx, new_idx)
+            for i, layer in enumerate(node.layers):
+                layer.layer_index = i
+        finally:
+            node_mod._suppress_updates = False
 
         node.rebuild_group(old_to_new=old_to_new)
         return {'FINISHED'}

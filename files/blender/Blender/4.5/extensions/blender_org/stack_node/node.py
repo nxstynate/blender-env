@@ -15,6 +15,19 @@
 # along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 # node.py — StackNode (ShaderNodeCustomGroup)
+#
+# Persistence:
+#   `layers` is a CollectionProperty registered as an annotation on this
+#   ShaderNodeCustomGroup subclass.  Blender saves the node (and its
+#   RNA-registered properties) as part of the owning NodeTree datablock,
+#   so the collection persists through save/reload with no extra work.
+#
+#   The internal mix-node chain lives in `node_tree`, which is also a
+#   Blender datablock and serialises itself.
+#
+#   The only place where we manually move data around is `copy()`,
+#   because node duplication in Blender does not automatically copy
+#   CollectionProperty contents from the source node to the new one.
 
 import bpy
 from bpy.props import CollectionProperty
@@ -22,6 +35,10 @@ from bpy.types import ShaderNodeCustomGroup
 
 from .properties import StackLayerProperties
 from .utils import get_node_id
+
+# Suppresses property-update callbacks during bulk operations
+# (copy, rebuild_group) to prevent cascading rebuilds.
+_suppress_updates = False
 
 
 class StackNode(ShaderNodeCustomGroup):
@@ -41,27 +58,60 @@ class StackNode(ShaderNodeCustomGroup):
         self.node_tree = bpy.data.node_groups.new(
             f".stack_{id(self)}", 'ShaderNodeTree',
         )
+        # ShaderNodeCustomGroup.node_tree assignment does not increment the
+        # referenced datablock's user count, so on save Blender treats the
+        # node_tree as orphan and purges it.  use_fake_user keeps it alive.
+        self.node_tree.use_fake_user = True
 
         self.node_tree.interface.new_socket(
             name="Color", in_out='OUTPUT', socket_type='NodeSocketColor',
         )
 
-        layer = self.layers.add()
-        layer.layer_index = 0
-        layer.layer_name = "Layer 0"
-        layer.blend_mode = "MIX"
-        layer.opacity = 1.0
-        layer.enabled = True
+        global _suppress_updates
+        _suppress_updates = True
+        try:
+            layer = self.layers.add()
+            layer.layer_index = 0
+            layer.layer_name = "Layer 0"
+            layer.blend_mode = "MIX"
+            layer.opacity = 1.0
+            layer.enabled = True
+        finally:
+            _suppress_updates = False
 
         self.add_layer_to_group(0)
         self.rebuild_internals()
 
     def free(self):
         if self.node_tree:
+            self.node_tree.use_fake_user = False
             bpy.data.node_groups.remove(self.node_tree)
 
     def copy(self, original):
-        self.node_tree = original.node_tree.copy()
+        """Called when this node is duplicated (Shift+D).
+
+        Blender shares the node_tree by default; we copy it so the new
+        node owns an independent datablock.  We also explicitly copy the
+        `layers` CollectionProperty contents because node duplication
+        does not propagate collection items from source to destination.
+        """
+        global _suppress_updates
+        _suppress_updates = True
+        try:
+            self.node_tree = original.node_tree.copy()
+            self.node_tree.use_fake_user = True
+
+            self.layers.clear()
+            for src in original.layers:
+                dst = self.layers.add()
+                dst.layer_name  = src.layer_name
+                dst.blend_mode  = src.blend_mode
+                dst.opacity     = src.opacity
+                dst.enabled     = src.enabled
+                dst.collapsed   = src.collapsed
+                dst.layer_index = src.layer_index
+        finally:
+            _suppress_updates = False
 
     # ------------------------------------------------------------------
     # Socket management (non-destructive)

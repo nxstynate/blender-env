@@ -14,7 +14,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-# properties.py — Layer property group
+# properties.py — Per-layer property group
 
 from bpy.props import (
     BoolProperty,
@@ -30,7 +30,10 @@ from .utils import find_owner_node
 
 
 def _on_layer_prop_changed(prop, context):
-    """Rebuild internal blend chain when a layer property changes."""
+    """Rebuild the node's internal chain when a layer property changes."""
+    from .node import _suppress_updates
+    if _suppress_updates:
+        return
     node = find_owner_node(prop)
     if node:
         node.rebuild_internals()
@@ -43,6 +46,7 @@ class StackLayerProperties(PropertyGroup):
         name="Layer Name",
         default="",
         description="Custom name for this layer",
+        update=lambda self, ctx: _on_layer_prop_changed(self, ctx),
     )
 
     blend_mode: EnumProperty(
@@ -74,6 +78,7 @@ class StackLayerProperties(PropertyGroup):
         name="Collapsed",
         default=False,
         description="Collapse this layer's controls",
+        update=lambda self, ctx: _on_layer_prop_changed(self, ctx),
     )
 
     layer_index: IntProperty(name="Layer Index", default=0)

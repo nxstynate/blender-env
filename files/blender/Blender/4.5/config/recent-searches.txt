@@ -565,7 +565,6 @@ L  metal-bead-blasted-black-001|[mat-metals-241205.blend]
   Plane.032
   Plane.002
   ScenePergola
-  Scene
 Curve ▸ Point
 Mesh ▸ Grid
    Riverbed_Growth_sbrkylp2
@@ -690,7 +689,6 @@ Shader ▸ Mix Shader
    Jordan-Trunner-Fixtures-Pedestal-Takedown.002
 Deform ▸ Shrinkwrap
 Add ▸ Text
-Image ▸ Mesh Plane
 JordanShoe
 Jordan_Gamma_Fixtures_F
    blackened steel
@@ -789,14 +787,12 @@ Empty ▸ Plain Axes
    yoga-mat-orange
    mann-walls.001
    Material.001
-Window ▸ Toggle System Console
 File ▸ Export ▸ Autodesk 3DS (.3ds)
   focusPoint
    facelit-white
    Render Result
 Object ▸ Apply (Ctrl A) ▸ Make Instances Real
 Generate ▸ Boolean
-Generate ▸ Solidify
 mann-elbow-stand
    wall-white-001
    Color_Black
@@ -813,7 +809,6 @@ File ▸ Export ▸ SketchUp (.skp)
    EmissiveLight.001
    black metal1
 Converter ▸ Blackbody
-Input ▸ Value
    Illuminated Lighting - Secondary
    SQUARE GRID1.001
    ConcretePaintedBlack
@@ -823,14 +818,11 @@ L0 HDRI_Light_Master|[production-light-master.blend]
    Material7.001
 Empty ▸ Cube
 Texture ▸ Environment Texture
-File ▸ Import ▸ SketchUp (.skp)
-Object ▸ SketchUp Cleanup
    RED STAIN PLY
    RED STAIN PLY.001
    Metal-Aluminum
    WHEATPASTE_2 copy
    Speakers - Soul tower
-   JordanRedEmissive
 ceiling.001
 exterior-graphics
 constr.001
@@ -852,14 +844,11 @@ concrete-walls-medium
    ConcretePaintedWhite
    concrete-walls-medium
    concrete-walls-charcoal
-   ConcretePaintedGrey.002
    ceiling-baffles.001
    ceiling-baffles.002
-   ceiling-baffles.003
 hvac.002
 hvac.003
 hvac.001
-   wood-flywood
    Illuminated Lighting
    Texture_Metal+Blueing_Light.002
    Plywood-Red-Stain
@@ -883,7 +872,6 @@ hvac.001
    W_Pants_HJ1326_Brown.001
    Material35.001
    Material33.001
-   MetalPaintedBlack
    M_TShirt_FZ1931_Blk.001
    W_Sweatshirt_HJ1323_Blk.001
    W_Pant_Long_HJ1326_MASTER_Black.001
@@ -895,25 +883,18 @@ hvac.001
    ceiling-medium
    ceiling-charcoal
    ConcretePaintedGrey
-   ConcretePaintedGrey.003
    EmissiveCubby.001
-Save, Open, Append (Ctrl S) ▸ Link
-   ConcretePaintedGrey.001
 Light ▸ Area
-Save, Open, Append (Ctrl S) ▸ Append
  0 weathering-blender-template-001
 Color Ramp ▸ Fac
 Input ▸ Bevel
 Converter ▸ Mix
-Color ▸ Mix Color
-Color ▸ Hue/Saturation/Value
 Converter ▸ Separate XYZ
 Converter ▸ Separate Color
 Shader ▸ Principled BSDF
 Edit ▸ UV Project
 UVMap
 Edit ▸ UV Warp
-Add ▸ Collection Instance...
 cinder-block
    ConcretePaintedRed
    entry-option-03
@@ -931,12 +912,10 @@ Material ▸ Set Material
    metal-square-grid
 Instances ▸ Realize Instances
 File ▸ Import ▸ Autodesk MAX (.max)
-Texture ▸ Image Texture
 Vector ▸ Normal
 Vector ▸ Normal Map
 Input ▸ Geometry ▸ Normal
 Input ▸ Texture Coordinate ▸ Normal
-Generate ▸ Bevel
 Deform ▸ Displace
 Input ▸ Image
 Mask ▸ Cryptomatte
@@ -945,8 +924,6 @@ Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
 Auto Boolean (Shift Ctrl B) ▸ Difference|Ctrl Numpad -
 Save, Open, Append (Ctrl S) ▸ Import
 File ▸ Import ▸ STL (.stl)
-Object ▸ Set Origin ▸ Origin to Geometry
- F Chipboard004_4K-JPG_NORMAL.001
 File ▸ Export ▸ FBX (.fbx)
 File ▸ Export ▸ STL (.stl)
 Group ▸ RGB
@@ -955,7 +932,6 @@ L  fabric-curtains-burgundy-001|[materials.blend]
  0 Nike Glow Pink
 L0 nike-glow-pink-001|[materials.blend]
    LEM_Yellow Dome Glow
-Vector ▸ Bump
    can-aluminum-001
    can-graphic-001.001
    blue.001
@@ -968,16 +944,62 @@ Converter ▸ Math ▸ Compare
 Converter ▸ RGB to BW
 Custom ▸ Composite
 Converter ▸ Math
-Input ▸ RGB
 Input ▸ Fresnel
-Color ▸ RGB Curves
 Mesh ▸ Plane
-Texture ▸ Checker Texture
-Texture ▸ Noise Texture
 Texture ▸ Voronoi Texture
-Converter ▸ Color Ramp
 Mesh ▸ Monkey
-Custom ▸ Stack
- 0 Material
  0 Material.002
+soulTower.004
+   fix-floor.002
+   fix-wall.002
+   fww.003
+   ceiling
+Save, Open, Append (Ctrl S) ▸ Append
+ F Chipboard004_4K-JPG_NORMAL.001
+   black-lgass eage
+L  Gray Glass031.001|[modelsSoulTower.blend]
+   MetalPaintedBlack
+   ceiling-baffles.003
+   wood-flywood
+   ConcretePaintedGrey.002
+   ConcretePaintedGrey.001
+   ConcretePaintedGrey.003
+facade
+Vector ▸ Bump
+Group ▸ Value
+Input ▸ Value
+Group ▸ Stack_2263995713008
+Input ▸ RGB
+Generate ▸ Solidify
+   JordanRedEmissive
+Color ▸ Mix Color ▸ Hue
+Color ▸ Hue/Saturation/Value
+Image ▸ Mesh Plane
+   material_Shoe_001_A7D4992_6EDB_4B63_55BD3F68.005
+Object ▸ Set Origin ▸ Origin to Geometry
+   [Color_E10].002
+Color ▸ RGB Curves
+   material_Octane_Material__4___imported___imported___7437E8C0_
+   nike-glow-pink-fww
+   Color_ATwo_Pink
+L  nike-glow-pink-001|[materials.blend]
+Add ▸ Collection Instance...
+trialing
+   wood-oak-001
+   [Color_E10].001
+Color ▸ Mix Color
+Window ▸ Toggle System Console
+Texture ▸ Noise Texture
+Custom ▸ Stack
+Texture ▸ Checker Texture
+ 0 Material
  0 Material.001
+  Scene
+Converter ▸ Color Ramp
+Generate ▸ Bevel
+Texture ▸ Image Texture
+Save, Open, Append (Ctrl S) ▸ Link
+L0 HdriWorld|[production-light-master.blend]
+   Material11.001
+File ▸ Import ▸ SketchUp (.skp)
+Object ▸ SketchUp Cleanup
