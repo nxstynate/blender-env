@@ -318,7 +318,6 @@ Unassigned ▸ Geometry Nodes
 0 Geometry Nodes.001
   Sphere
    Material.003
-Generate ▸ Array
   radial-wave
 Edit ▸ Vertex Weight Proximity
   control
@@ -347,7 +346,6 @@ Input ▸ Attribute
   foc-pt
 Point ▸ Points
 Mesh ▸ Read ▸ Vertex Neighbors
-Normals ▸ Smooth by Angle
   Geometry Nodes.001
   Geometry Nodes
 Group ▸ Group Input
@@ -363,7 +361,6 @@ Mesh ▸ Read ▸ Mesh Island
   Plane.001
 Mesh ▸ Operations ▸ Triangulate
 Cloth
-Transform ▸ Lens Distortion
    graphic-tbd
    Luster White Pearlescent Matte2
    Luster White Pearlescent Matte2.001
@@ -371,7 +368,6 @@ Transform ▸ Lens Distortion
    lulu-soho-facade-001
    [Concrete Aggregate Smoke]
    LIGHT
-Mesh ▸ Circle
    neon-red-001
    fabric-desert-red.001
    fabric-lavendar-lux.001
@@ -577,7 +573,6 @@ Shader ▸ Volume Scatter
    pearl1
 Shader ▸ Glass BSDF
    glass-topper-001
-Shader ▸ Emission
    matte-grey
    2_floor
    mirror-001
@@ -687,7 +682,6 @@ Geometry ▸ Operations ▸ Bake
 Input ▸ Object Info
 Shader ▸ Mix Shader
    Jordan-Trunner-Fixtures-Pedestal-Takedown.002
-Deform ▸ Shrinkwrap
 Add ▸ Text
 JordanShoe
 Jordan_Gamma_Fixtures_F
@@ -705,7 +699,6 @@ MannequinPlatform
    Mannequin_Platform_002
    lockup-color
    glitch a
-   Material10
    Material16
 FWW_Riser_001
    emission-blue
@@ -735,7 +728,6 @@ infrared_pedestal_scaled
 L0 BlackMatte|[materials.blend]
 L0 InfraredMatte|[materials.blend]
    Color_Infrared
-   Material2
 L0 glass-clear-001|[materials.blend]
 L  glass-clear-001|[materials.blend]
 L  InfraredGloss|[materials.blend]
@@ -762,7 +754,6 @@ Light ▸ Spot
 Normals ▸ Weighted Normal
 Generate ▸ Triangulate
 Generate ▸ Remesh
-Generate ▸ Subdivision Surface
    fixture-mann-platforms-lifestyle_mens
 File ▸ Import ▸ Wavefront (.obj)
 base-setup
@@ -791,7 +782,6 @@ File ▸ Export ▸ Autodesk 3DS (.3ds)
   focusPoint
    facelit-white
    Render Result
-Object ▸ Apply (Ctrl A) ▸ Make Instances Real
 Generate ▸ Boolean
 mann-elbow-stand
    wall-white-001
@@ -808,16 +798,13 @@ L  Concrete|[collectionsMaster.blend]
 File ▸ Export ▸ SketchUp (.skp)
    EmissiveLight.001
    black metal1
-Converter ▸ Blackbody
    Illuminated Lighting - Secondary
    SQUARE GRID1.001
    ConcretePaintedBlack
-Color ▸ Gamma
 L0 HDRI_Light_Master|[production-light-master.blend]
    concrete-clean-001
    Material7.001
 Empty ▸ Cube
-Texture ▸ Environment Texture
    RED STAIN PLY
    RED STAIN PLY.001
    Metal-Aluminum
@@ -831,7 +818,6 @@ floor.001
 fix-wall.001
 fww.001
 soul-tower.001
-Mesh ▸ Cube
 Normal ▸ Normal
    WoodFloor-001
    WoodFloor-002
@@ -884,7 +870,6 @@ hvac.001
    ceiling-charcoal
    ConcretePaintedGrey
    EmissiveCubby.001
-Light ▸ Area
  0 weathering-blender-template-001
 Color Ramp ▸ Fac
 Input ▸ Bevel
@@ -898,7 +883,6 @@ Edit ▸ UV Warp
 cinder-block
    ConcretePaintedRed
    entry-option-03
-Mesh ▸ Primitives ▸ Cube
 Geometry ▸ Operations ▸ Transform Geometry
 Instances ▸ Instance on Points
 Geometry ▸ Operations ▸ Duplicate Elements
@@ -910,13 +894,11 @@ Input ▸ Constant ▸ Value
 Utilities ▸ Vector ▸ Combine XYZ
 Material ▸ Set Material
    metal-square-grid
-Instances ▸ Realize Instances
 File ▸ Import ▸ Autodesk MAX (.max)
 Vector ▸ Normal
 Vector ▸ Normal Map
 Input ▸ Geometry ▸ Normal
 Input ▸ Texture Coordinate ▸ Normal
-Deform ▸ Displace
 Input ▸ Image
 Mask ▸ Cryptomatte
 Output ▸ Viewer
@@ -937,13 +919,10 @@ L0 nike-glow-pink-001|[materials.blend]
    blue.001
    black-plastic-001
 File ▸ Defaults ▸ Save Startup File
-Texture ▸ Gradient Texture
-
 Mesh ▸ Cylinder
 Converter ▸ Math ▸ Compare
 Converter ▸ RGB to BW
 Custom ▸ Composite
-Converter ▸ Math
 Input ▸ Fresnel
 Mesh ▸ Plane
 Texture ▸ Voronoi Texture
@@ -954,7 +933,6 @@ soulTower.004
    fix-wall.002
    fww.003
    ceiling
-Save, Open, Append (Ctrl S) ▸ Append
  F Chipboard004_4K-JPG_NORMAL.001
    black-lgass eage
 L  Gray Glass031.001|[modelsSoulTower.blend]
@@ -965,41 +943,134 @@ L  Gray Glass031.001|[modelsSoulTower.blend]
    ConcretePaintedGrey.001
    ConcretePaintedGrey.003
 facade
-Vector ▸ Bump
 Group ▸ Value
-Input ▸ Value
 Group ▸ Stack_2263995713008
 Input ▸ RGB
-Generate ▸ Solidify
    JordanRedEmissive
 Color ▸ Mix Color ▸ Hue
 Color ▸ Hue/Saturation/Value
-Image ▸ Mesh Plane
    material_Shoe_001_A7D4992_6EDB_4B63_55BD3F68.005
 Object ▸ Set Origin ▸ Origin to Geometry
    [Color_E10].002
-Color ▸ RGB Curves
    material_Octane_Material__4___imported___imported___7437E8C0_
    nike-glow-pink-fww
    Color_ATwo_Pink
 L  nike-glow-pink-001|[materials.blend]
-Add ▸ Collection Instance...
 trialing
    wood-oak-001
    [Color_E10].001
 Color ▸ Mix Color
 Window ▸ Toggle System Console
-Texture ▸ Noise Texture
-Custom ▸ Stack
 Texture ▸ Checker Texture
  0 Material
  0 Material.001
   Scene
-Converter ▸ Color Ramp
-Generate ▸ Bevel
-Texture ▸ Image Texture
-Save, Open, Append (Ctrl S) ▸ Link
 L0 HdriWorld|[production-light-master.blend]
    Material11.001
-File ▸ Import ▸ SketchUp (.skp)
+Object ▸ Apply (Ctrl A) ▸ Make Instances Real
+Mesh ▸ Cube
+   Material19.005
+   Color_Sail
+   Color_BrownSmoke
+   hangrack-floor-brooklyn
+   Soil 03, Dry2.001
+   Material10.001
+   Air_Jordan_1_Zoom_Wht4.001
+   Material31
+L  Material31|[mannequins.blend]
+   Material32
+L  Material32|[mannequins.blend]
+   Material27
+   Screenshot 2026-04-24 at 16.55.50
+   Steel 14, Grid#1
+   Steel 14, Grid#1.001
+Mesh ▸ Circle
+Curve ▸ Curve Profiles ▸ Helix (3D)
+Mesh ▸ Primitives ▸ Cube
+Normals ▸ Smooth by Angle
+Generate ▸ Bevel
+Generate ▸ Solidify
+Deform ▸ Shrinkwrap
 Object ▸ SketchUp Cleanup
+   KOPShoeGreen
+   Concrete 16
+   Fabric 04
+   WHITE LIGHT BARRISOL.002
+   Lighing Glo1.001
+   jackson scribbles
+   hyper red
+   Baltic blue
+   Material2
+   Lighing Glo1
+KOPTriangleHangrack
+   Alumina_Metaltex.001
+   Steel 14, Grid#1.002
+   KOPMannPlatformTriangle.003
+   TriangleOB
+   KOPTrianglePedestalScaled
+   Soil 03, Dry2
+   Material10
+   Material #1404
+   Air_Jordan_1_Zoom_Wht4
+   MetalDarkGalvanized.001
+   Glass
+   500-3519_W_LifestyleHip_Sweatshirt_Crop_UV_Blk
+L  Material29.001|[mannequins.blend]
+L  JordanP6-Black-Mannequin|[materials.blend]
+   Screenshot 2026-04-24 at 16.55.001
+   AJ3 - Laser
+   Silver 04, Brushed
+KOPPedestalLoveLetter
+KOPShoeLoveLetter.001
+L  MannequinWhiteBrown|[mannequins.blend]
+   KOPLoveLetterInnovationTablesPinnacle
+   KOPMannPlatformLoveLetter.002
+   360_F_303281798_IzP8STSotQLgRHDsiFgxWKft7Hnds8n2.004
+   113_concrete bare dirty texture-seamless
+apparelzone-table
+Texture ▸ Environment Texture
+Color ▸ Gamma
+Texture ▸ Gabor Texture
+Texture ▸ Magic Texture
+Texture ▸ Image Texture
+Converter ▸ Math
+Color ▸ RGB Curves
+Save, Open, Append (Ctrl S) ▸ Link
+   TriangleOB.002
+KOPShoePink
+KOPShoeBlue
+   KOPShoeLoveLetter.002
+   KOPShoeLoveLetter.003
+KOPLoveLetterPedestalPinnacle
+
+   KOPLoveLetterPedestalPinnacle.001
+   KOPLoveLetterPedestalPinnacle.002
+Add ▸ Collection Instance...
+shades
+Texture ▸ Gradient Texture
+Texture ▸ Noise Texture
+Input ▸ Light Path ▸ Ray Depth
+Custom ▸ Stack
+Input ▸ Value
+Vector ▸ Bump
+Converter ▸ Color Ramp
+Instances ▸ Realize Instances
+Generate ▸ Array
+File ▸ Import ▸ SketchUp (.skp)
+Generate ▸ Subdivision Surface
+Texture ▸ White Noise Texture
+Utilities ▸ Math
+Color ▸ Mix ▸ Mix Color
+Filter ▸ Filter ▸ Box Sharpen
+Filter ▸ Blur ▸ Defocus
+Transform ▸ Lens Distortion
+Render ▸ Render Image|F12
+Render ▸ View Render|F11
+Image ▸ Mesh Plane
+Collection Instance ▸ CI
+Collection Instance ▸ StairSystem
+Light ▸ Area
+Shader ▸ Emission
+Converter ▸ Blackbody
+Deform ▸ Displace
+Save, Open, Append (Ctrl S) ▸ Append
