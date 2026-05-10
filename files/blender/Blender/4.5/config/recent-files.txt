@@ -1,3 +1,10 @@
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-09-19-03-21\blender\Untitled.blend
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-09-19-03-21\blender\ugg-flagship-regent-st-model-gf-classics-zone.blend
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-09-19-03-21\blender\ugg-flagship-regent-st-model-gf-iz.blend
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-09-19-03-21\blender\ugg-flagship-regent-st-model-gf-sig-service.blend
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-09-19-03-21\blender\ugg-flagship-st-model-gf-stair-ceiling.blend
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-09-19-03-21\blender\ugg-flagship-regent-st-model-basement.blend
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-09-19-03-21\ugg-japan-osaka.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\5_mail_out\2026-05-08-12-15-47\stairs.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\1_merge\models\stairs.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipBasement_\3_light\production-light-master.blend
@@ -11,10 +18,3 @@ X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspo
 D:\Archive\1_Projects\youtube-production\240619.01-rayban-shades\3_blender\rayban-shades-001.blend
 X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\3_blender\2_links\collectionsMaster.blend
 X:\Dropbox\2_Library\1_models\internal\product\nike\geonodes_apparel\geonodes_aprl001.blend
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\3_blender\WindowPinnacle\2_cam\production-cam-master.blend
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\3_blender\WindowPinnacle\1_model\7_initiative\production-initiative-master.blend
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\3_blender\TriangleCloseUp\1_model\7_initiative\production-initiative-master.blend
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\3_blender\IZPinnacle\2_cam\production-cam-master.blend
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\3_blender\IZPinnacle\1_model\7_initiative\production-initiative-master.blend
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\3_blender\TriangleCloseUp\3_light\production-light-master.blend
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\3_blender\KOP\1_model\7_initiative\production-initiative-master.blend

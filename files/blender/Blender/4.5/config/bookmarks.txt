@@ -1,5 +1,8 @@
 [Bookmarks]
 [Recent]
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-09-19-03-21\blender\
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-09-19-03-21\sketchup\
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-09-19-03-21\
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\5_mail_out\2026-05-08-12-15-47\
 C:\Users\nate\Downloads\
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipBasement_\1_model\1_env\
@@ -7,6 +10,3 @@ X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentS
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipBasement_\3_light\
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\1_merge\models\
 C:\Users\nate\pictures\Screenshots\
-X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-06-11-24-39\
-D:\Archive\1_Projects\youtube-production\240619.01-rayban-shades\3_blender\
-X:\Dropbox\2_Library\1_models\internal\product\nike\geonodes_apparel\
