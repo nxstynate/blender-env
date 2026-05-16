@@ -1,12 +1,12 @@
 [Bookmarks]
 [Recent]
-X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-09-19-03-21\blender\
-X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-09-19-03-21\sketchup\
-X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-09-19-03-21\
-X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\5_mail_out\2026-05-08-12-15-47\
-C:\Users\nate\Downloads\
-X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipBasement_\1_model\1_env\
-X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipBasement_\1_model\2_fixtures\
-X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipBasement_\3_light\
-X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\1_merge\models\
-C:\Users\nate\pictures\Screenshots\
+X:\LocalProduction\260417.03-azur-037eco-ecolab-render-updates\1_docs\2_correspondence\2026-05-15-16-23-54\
+X:\LocalProduction\260417.03-azur-037eco-ecolab-render-updates\1_docs\2_correspondence\2026-05-13-20-16-34\graphics\
+X:\LocalProduction\260417.03-azur-037eco-ecolab-render-updates\3_blender\ecolab\4_render\
+X:\LocalProduction\260417.03-azur-037eco-ecolab-render-updates\3_blender\ecolab\2_cam\
+C:\Users\nate\Downloads\Jordan Mannequins-20260515T164910Z-3-001\Jordan Mannequins\
+X:\LocalProduction\260417.03-azur-037eco-ecolab-render-updates\3_blender\ecolab\1_model\2_fixtures\
+X:\LocalProduction\260417.03-azur-037eco-ecolab-render-updates\3_blender\ecolab\3_light\
+X:\LocalProduction\260417.03-azur-037eco-ecolab-render-updates\1_docs\2_correspondence\2026-05-13-20-16-34\5.11.26-updated-brief\
+X:\LocalProduction\260417.03-azur-037eco-ecolab-render-updates\3_blender\2_links\
+X:\LocalProduction\260417.03-azur-037eco-ecolab-render-updates\1_docs\2_correspondence\2026-05-13-20-16-34\models\
