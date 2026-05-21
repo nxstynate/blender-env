@@ -1035,7 +1035,6 @@ Texture ▸ Magic Texture
 Texture ▸ Image Texture
 Converter ▸ Math
 Color ▸ RGB Curves
-Save, Open, Append (Ctrl S) ▸ Link
    TriangleOB.002
 KOPShoePink
 KOPShoeBlue
@@ -1074,3 +1073,4 @@ Shader ▸ Emission
 Converter ▸ Blackbody
 Deform ▸ Displace
 Save, Open, Append (Ctrl S) ▸ Append
+Save, Open, Append (Ctrl S) ▸ Link
