@@ -991,7 +991,6 @@ Normals ▸ Smooth by Angle
 Generate ▸ Bevel
 Generate ▸ Solidify
 Deform ▸ Shrinkwrap
-Object ▸ SketchUp Cleanup
    KOPShoeGreen
    Concrete 16
    Fabric 04
@@ -1055,7 +1054,6 @@ Vector ▸ Bump
 Converter ▸ Color Ramp
 Instances ▸ Realize Instances
 Generate ▸ Array
-File ▸ Import ▸ SketchUp (.skp)
 Generate ▸ Subdivision Surface
 Texture ▸ White Noise Texture
 Utilities ▸ Math
@@ -1072,5 +1070,7 @@ Light ▸ Area
 Shader ▸ Emission
 Converter ▸ Blackbody
 Deform ▸ Displace
-Save, Open, Append (Ctrl S) ▸ Append
 Save, Open, Append (Ctrl S) ▸ Link
+File ▸ Import ▸ SketchUp (.skp)
+Object ▸ SketchUp Cleanup
+Save, Open, Append (Ctrl S) ▸ Append
