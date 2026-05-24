@@ -1,9 +1,9 @@
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipBasement_\1_model\7_initiative\production-initiative-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipGF_\1_model\7_initiative\production-initiative-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipGF_\1_model\3_product\production-product-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipGF_\1_model\1_env\production-env-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-22-08-56-20\export\ground-floor-items.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-22-08-56-20\export\classics.blend
-X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipBasement_\1_model\7_initiative\production-initiative-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipBasement_\1_model\2_fixtures\production-fixtures-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipBasement_\1_model\1_env\production-env-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-05-22-08-56-20\export\basement.blend
