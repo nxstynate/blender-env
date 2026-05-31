@@ -751,7 +751,6 @@ L  glass-clear-001|[Materials.blend]
    plaque.002
 Mesh ▸ Parent to Empty
 Light ▸ Spot
-Normals ▸ Weighted Normal
 Generate ▸ Triangulate
 Generate ▸ Remesh
    fixture-mann-platforms-lifestyle_mens
@@ -902,8 +901,6 @@ Input ▸ Texture Coordinate ▸ Normal
 Input ▸ Image
 Mask ▸ Cryptomatte
 Output ▸ Viewer
-Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
-Auto Boolean (Shift Ctrl B) ▸ Difference|Ctrl Numpad -
 Save, Open, Append (Ctrl S) ▸ Import
 File ▸ Import ▸ STL (.stl)
 File ▸ Export ▸ FBX (.fbx)
@@ -945,12 +942,10 @@ L  Gray Glass031.001|[modelsSoulTower.blend]
 facade
 Group ▸ Value
 Group ▸ Stack_2263995713008
-Input ▸ RGB
    JordanRedEmissive
 Color ▸ Mix Color ▸ Hue
 Color ▸ Hue/Saturation/Value
    material_Shoe_001_A7D4992_6EDB_4B63_55BD3F68.005
-Object ▸ Set Origin ▸ Origin to Geometry
    [Color_E10].002
    material_Octane_Material__4___imported___imported___7437E8C0_
    nike-glow-pink-fww
@@ -989,7 +984,6 @@ Curve ▸ Curve Profiles ▸ Helix (3D)
 Mesh ▸ Primitives ▸ Cube
 Normals ▸ Smooth by Angle
 Generate ▸ Bevel
-Generate ▸ Solidify
 Deform ▸ Shrinkwrap
    KOPShoeGreen
    Concrete 16
@@ -1033,7 +1027,6 @@ Texture ▸ Gabor Texture
 Texture ▸ Magic Texture
 Texture ▸ Image Texture
 Converter ▸ Math
-Color ▸ RGB Curves
    TriangleOB.002
 KOPShoePink
 KOPShoeBlue
@@ -1050,7 +1043,6 @@ Texture ▸ Noise Texture
 Input ▸ Light Path ▸ Ray Depth
 Custom ▸ Stack
 Input ▸ Value
-Vector ▸ Bump
 Converter ▸ Color Ramp
 Instances ▸ Realize Instances
 Generate ▸ Array
@@ -1063,14 +1055,23 @@ Filter ▸ Blur ▸ Defocus
 Transform ▸ Lens Distortion
 Render ▸ Render Image|F12
 Render ▸ View Render|F11
-Image ▸ Mesh Plane
 Collection Instance ▸ CI
 Collection Instance ▸ StairSystem
-Light ▸ Area
-Shader ▸ Emission
-Converter ▸ Blackbody
 Deform ▸ Displace
+Object ▸ Set Origin ▸ Origin to Geometry
 Save, Open, Append (Ctrl S) ▸ Link
+Vector ▸ Bump
+Image ▸ Mesh Plane
+Generate ▸ Solidify
+Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
+Auto Boolean (Shift Ctrl B) ▸ Difference|Ctrl Numpad -
+Save, Open, Append (Ctrl S) ▸ Append
+Color ▸ RGB Curves
+Shader ▸ Emission
+Light ▸ Area
+   ugg-fabric-velvet-chestnut.001
+Converter ▸ Blackbody
+Input ▸ RGB
 File ▸ Import ▸ SketchUp (.skp)
 Object ▸ SketchUp Cleanup
-Save, Open, Append (Ctrl S) ▸ Append
+Normals ▸ Weighted Normal
