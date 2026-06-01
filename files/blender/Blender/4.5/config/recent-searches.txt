@@ -389,7 +389,6 @@ Cloth
    lulu-soho-facade-treatment.jpg
 Utilities ▸ Deprecated ▸ Rotate Euler
   geo-node-scatter
-Input ▸ Geometry
    glass-reed-001
    reeded-glass-tex-001
 Deform ▸ Smooth
@@ -549,7 +548,6 @@ Input ▸ Wireframe
 Add Modifier ▸ Geometry Nodes
    fabric-striped-black-and-white-001.001
 Shader ▸ Translucent BSDF
-Shader ▸ Transparent BSDF
    Material
 Mesh ▸ UV Sphere
 Generate ▸ Mirror
@@ -680,7 +678,6 @@ Input ▸ Constant ▸ Vector
 Utilities ▸ Vector ▸ Vector Math
 Geometry ▸ Operations ▸ Bake
 Input ▸ Object Info
-Shader ▸ Mix Shader
    Jordan-Trunner-Fixtures-Pedestal-Takedown.002
 Add ▸ Text
 JordanShoe
@@ -1058,20 +1055,24 @@ Render ▸ View Render|F11
 Collection Instance ▸ CI
 Collection Instance ▸ StairSystem
 Deform ▸ Displace
-Object ▸ Set Origin ▸ Origin to Geometry
 Save, Open, Append (Ctrl S) ▸ Link
 Vector ▸ Bump
-Image ▸ Mesh Plane
-Generate ▸ Solidify
 Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
-Auto Boolean (Shift Ctrl B) ▸ Difference|Ctrl Numpad -
-Save, Open, Append (Ctrl S) ▸ Append
 Color ▸ RGB Curves
 Shader ▸ Emission
-Light ▸ Area
    ugg-fabric-velvet-chestnut.001
 Converter ▸ Blackbody
 Input ▸ RGB
 File ▸ Import ▸ SketchUp (.skp)
 Object ▸ SketchUp Cleanup
+Light ▸ Area
+Auto Boolean (Shift Ctrl B) ▸ Difference|Ctrl Numpad -
 Normals ▸ Weighted Normal
+Image ▸ Mesh Plane
+Save, Open, Append (Ctrl S) ▸ Append
+  RailingProfile
+Generate ▸ Solidify
+Input ▸ Geometry
+Shader ▸ Mix Shader
+Shader ▸ Transparent BSDF
+Object ▸ Set Origin ▸ Origin to Geometry
