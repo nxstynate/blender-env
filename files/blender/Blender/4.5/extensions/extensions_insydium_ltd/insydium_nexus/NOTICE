@@ -1,0 +1,74 @@
+NOTICE
+======
+
+Copyright (C) 2026 INSYDIUM LTD. All rights reserved.
+
+This repository contains software components distributed under DIFFERENT licenses.
+Please read this file carefully before using, copying, or distributing any part
+of this software.
+
+-------------------------------------------------------------------------------
+
+1. GPL-LICENSED COMPONENTS
+---------------------------
+
+This Blender add-on (Python scripts) is free software distributed under the
+terms of the GNU General Public License, version 3 or later (GPL-3.0-or-later),
+as published by the Free Software Foundation.
+You may copy, modify, and distribute this portion of the software under the
+conditions of the GPL v3 or any later version. A full copy of the license text
+is provided in the file LICENSE in the root of this repository, and at:
+
+    https://www.gnu.org/licenses/gpl-3.0.html
+
+-------------------------------------------------------------------------------
+
+2. PROPRIETARY COMPONENTS
+--------------------------
+
+The compiled NeXus simulation library located in libs/ is the exclusive
+property of INSYDIUM LTD and constitutes a separate standalone work. It is NOT
+free software and is NOT part of the GPL-licensed add-on.
+
+NO license is granted, express or implied, to use, copy, modify, merge,
+publish, distribute, sublicense, or sell these components, except as expressly
+authorised in a separate written agreement with INSYDIUM LTD.
+
+-------------------------------------------------------------------------------
+
+3. THIRD-PARTY COMPONENTS
+--------------------------
+
+This software incorporates third-party components subject to their own license
+terms. These are documented in two separate notices files, one for each part
+of this software:
+
+a) Third-party components used by the GPL-licensed Blender add-on:
+
+       THIRD-PARTY-NOTICES.txt
+
+   These components are used in conjunction with GPL-licensed code. Their
+   individual licenses are compatible with the GPL v3 and are detailed in
+   the file above.
+
+b) Third-party components used by the proprietary simulation library:
+
+       libs/THIRD-PARTY-NOTICES.txt
+
+   These components are used solely within the proprietary simulation library
+   and are NOT made available under the GPL or any other open license by
+   virtue of their inclusion here. Their individual licenses are detailed in
+   the file above. These components remain subject to their own respective
+   terms and are distributed only as permitted by those terms.
+
+-------------------------------------------------------------------------------
+
+4. NO WARRANTY
+---------------
+
+THE GPL-LICENSED PORTIONS OF THIS SOFTWARE ARE PROVIDED "AS IS", WITHOUT
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. SEE THE GPL LICENSE TEXT FOR DETAILS.
+
+THE PROPRIETARY PORTIONS OF THIS SOFTWARE ARE PROVIDED SOLELY UNDER THE TERMS
+OF ANY SEPARATE WRITTEN AGREEMENT. ABSENT SUCH AN AGREEMENT, THESE COMPONENTS
+ARE PROVIDED WITHOUT ANY WARRANTY AND WITH NO RIGHTS GRANTED.

@@ -1,0 +1,192 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "insydium_nexus",
+      "name": "INSYDIUM NeXus (BETA)",
+      "tagline": "NeXus tools for Blender",
+      "version": "2026.0.6012337",
+      "type": "add-on",
+      "maintainer": "INSYDIUM LTD <support@insydium.ltd>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.3.0",
+      "website": "https://insydium.ltd/",
+      "tags": [
+        "Object",
+        "Mesh"
+      ],
+      "platforms": [
+        "windows-x64"
+      ],
+      "permissions": {
+        "network": "Requires network access for online licensing",
+        "files": "Filesystem access is required for caching simulation data to disk"
+      },
+      "python_versions": [
+        "3.14"
+      ],
+      "archive_url": "./download/nexus_blender-win32-x86_64-py314.zip",
+      "archive_size": 126254275,
+      "archive_hash": "sha256:11089d7442fa3b1f1bce507a3bd7b9e183302454bb6d8c05b18595d44c4b1b71"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "insydium_nexus",
+      "name": "INSYDIUM NeXus (BETA)",
+      "tagline": "NeXus tools for Blender",
+      "version": "2026.0.6012336",
+      "type": "add-on",
+      "maintainer": "INSYDIUM LTD <support@insydium.ltd>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.3.0",
+      "website": "https://insydium.ltd/",
+      "tags": [
+        "Object",
+        "Mesh"
+      ],
+      "platforms": [
+        "macos-arm64"
+      ],
+      "permissions": {
+        "network": "Requires network access for online licensing",
+        "files": "Filesystem access is required for caching simulation data to disk"
+      },
+      "python_versions": [
+        "3.14"
+      ],
+      "archive_url": "./download/nexus_blender-macos-arm64-py314.zip",
+      "archive_size": 119794930,
+      "archive_hash": "sha256:4c741e4a6ae43746ff59ac5d0734ee2ed299a4bf52a64fcf2c8fc2e827a0ea1c"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "insydium_nexus",
+      "name": "INSYDIUM NeXus (BETA)",
+      "tagline": "NeXus tools for Blender",
+      "version": "2026.0.6012337",
+      "type": "add-on",
+      "maintainer": "INSYDIUM LTD <support@insydium.ltd>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.3.0",
+      "website": "https://insydium.ltd/",
+      "tags": [
+        "Object",
+        "Mesh"
+      ],
+      "platforms": [
+        "windows-x64"
+      ],
+      "permissions": {
+        "network": "Requires network access for online licensing",
+        "files": "Filesystem access is required for caching simulation data to disk"
+      },
+      "python_versions": [
+        "3.13"
+      ],
+      "archive_url": "./download/nexus_blender-win32-x86_64-py313.zip",
+      "archive_size": 126199491,
+      "archive_hash": "sha256:a0a0d9d0986f4a9344d16c9e6b254bea2f5e648f05d65cc06a20eb53382cb110"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "insydium_nexus",
+      "name": "INSYDIUM NeXus (BETA)",
+      "tagline": "NeXus tools for Blender",
+      "version": "2026.0.6012336",
+      "type": "add-on",
+      "maintainer": "INSYDIUM LTD <support@insydium.ltd>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.3.0",
+      "website": "https://insydium.ltd/",
+      "tags": [
+        "Object",
+        "Mesh"
+      ],
+      "platforms": [
+        "windows-x64"
+      ],
+      "permissions": {
+        "network": "Requires network access for online licensing",
+        "files": "Filesystem access is required for caching simulation data to disk"
+      },
+      "python_versions": [
+        "3.11"
+      ],
+      "archive_url": "./download/nexus_blender-win32-x86_64-py311.zip",
+      "archive_size": 126146372,
+      "archive_hash": "sha256:b72a7d40720570c2a56ed15b31e768c36c872752196da5461d6cf6caf2563d7f"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "insydium_nexus",
+      "name": "INSYDIUM NeXus (BETA)",
+      "tagline": "NeXus tools for Blender",
+      "version": "2026.0.6012336",
+      "type": "add-on",
+      "maintainer": "INSYDIUM LTD <support@insydium.ltd>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.3.0",
+      "website": "https://insydium.ltd/",
+      "tags": [
+        "Object",
+        "Mesh"
+      ],
+      "platforms": [
+        "macos-arm64"
+      ],
+      "permissions": {
+        "network": "Requires network access for online licensing",
+        "files": "Filesystem access is required for caching simulation data to disk"
+      },
+      "python_versions": [
+        "3.11"
+      ],
+      "archive_url": "./download/nexus_blender-macos-arm64-py311.zip",
+      "archive_size": 119572190,
+      "archive_hash": "sha256:15aa928af0bc2b3d00592ca628649c2d3e9dcd9ed1a51c156a72c1fdf2369f8b"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "insydium_nexus",
+      "name": "INSYDIUM NeXus (BETA)",
+      "tagline": "NeXus tools for Blender",
+      "version": "2026.0.6012336",
+      "type": "add-on",
+      "maintainer": "INSYDIUM LTD <support@insydium.ltd>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.3.0",
+      "website": "https://insydium.ltd/",
+      "tags": [
+        "Object",
+        "Mesh"
+      ],
+      "platforms": [
+        "macos-arm64"
+      ],
+      "permissions": {
+        "network": "Requires network access for online licensing",
+        "files": "Filesystem access is required for caching simulation data to disk"
+      },
+      "python_versions": [
+        "3.13"
+      ],
+      "archive_url": "./download/nexus_blender-macos-arm64-py313.zip",
+      "archive_size": 119683491,
+      "archive_hash": "sha256:9d66ba534750bf131debfc6c62760d777ca94b7ece2618204a12426aa482a6f4"
+    }
+  ]
+}

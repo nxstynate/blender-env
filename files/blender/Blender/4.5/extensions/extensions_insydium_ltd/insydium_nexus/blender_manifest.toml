@@ -1,0 +1,23 @@
+schema_version = "1.0.0"
+
+id = "insydium_nexus"
+version = "2026.0.6012336"
+name = "INSYDIUM NeXus (BETA)"
+tagline = "NeXus tools for Blender"
+maintainer = "INSYDIUM LTD <support@insydium.ltd>"
+type = "add-on"
+
+website = "https://insydium.ltd/"
+tags = ["Object", "Mesh"]
+
+blender_version_min = "4.3.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+platforms = ["windows-x64"]
+
+wheels = ["./wheels/pyopengl-3.1.10-py3-none-any.whl", "./wheels/pyqt6-6.11.0-cp310-abi3-win_amd64.whl", "./wheels/pyqt6_qt6-6.11.1-py3-none-win_amd64.whl", "./wheels/pyqt6_sip-13.11.1-cp311-cp311-win_amd64.whl"]
+
+[permissions]
+network = "Requires network access for online licensing"
+files = "Filesystem access is required for caching simulation data to disk"
