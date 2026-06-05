@@ -517,7 +517,6 @@ Mesh ▸ Operations ▸ Mesh to Points
    planters
 Color ▸ Adjust ▸ RGB Curves
    logo-hulu-illuminated-001
-Color ▸ Brightness/Contrast
 Bump ▸ Height
 logo-the-handmaids-tale
 logo-hulu
@@ -765,7 +764,6 @@ lightbox-ceiling-002
    backwall.004
    backwall.003
    emissive-scrim-002.001
-Color ▸ Mix Color ▸ Saturation
    fabric_black_001
 Empty ▸ Plain Axes
    [Metal Corrugated Shiny]
@@ -918,7 +916,6 @@ Converter ▸ Math ▸ Compare
 Converter ▸ RGB to BW
 Custom ▸ Composite
 Input ▸ Fresnel
-Mesh ▸ Plane
 Texture ▸ Voronoi Texture
 Mesh ▸ Monkey
  0 Material.002
@@ -941,7 +938,6 @@ Group ▸ Value
 Group ▸ Stack_2263995713008
    JordanRedEmissive
 Color ▸ Mix Color ▸ Hue
-Color ▸ Hue/Saturation/Value
    material_Shoe_001_A7D4992_6EDB_4B63_55BD3F68.005
    [Color_E10].002
    material_Octane_Material__4___imported___imported___7437E8C0_
@@ -951,7 +947,6 @@ L  nike-glow-pink-001|[materials.blend]
 trialing
    wood-oak-001
    [Color_E10].001
-Color ▸ Mix Color
 Window ▸ Toggle System Console
 Texture ▸ Checker Texture
  0 Material
@@ -984,16 +979,13 @@ Generate ▸ Bevel
 Deform ▸ Shrinkwrap
    KOPShoeGreen
    Concrete 16
-   Fabric 04
    WHITE LIGHT BARRISOL.002
    Lighing Glo1.001
    jackson scribbles
    hyper red
    Baltic blue
    Material2
-   Lighing Glo1
 KOPTriangleHangrack
-   Alumina_Metaltex.001
    Steel 14, Grid#1.002
    KOPMannPlatformTriangle.003
    TriangleOB
@@ -1002,14 +994,12 @@ KOPTriangleHangrack
    Material10
    Material #1404
    Air_Jordan_1_Zoom_Wht4
-   MetalDarkGalvanized.001
    Glass
    500-3519_W_LifestyleHip_Sweatshirt_Crop_UV_Blk
 L  Material29.001|[mannequins.blend]
 L  JordanP6-Black-Mannequin|[materials.blend]
    Screenshot 2026-04-24 at 16.55.001
    AJ3 - Laser
-   Silver 04, Brushed
 KOPPedestalLoveLetter
 KOPShoeLoveLetter.001
 L  MannequinWhiteBrown|[mannequins.blend]
@@ -1021,8 +1011,6 @@ apparelzone-table
 Texture ▸ Environment Texture
 Color ▸ Gamma
 Texture ▸ Gabor Texture
-Texture ▸ Magic Texture
-Texture ▸ Image Texture
 Converter ▸ Math
    TriangleOB.002
 KOPShoePink
@@ -1036,15 +1024,11 @@ KOPLoveLetterPedestalPinnacle
 Add ▸ Collection Instance...
 shades
 Texture ▸ Gradient Texture
-Texture ▸ Noise Texture
 Input ▸ Light Path ▸ Ray Depth
-Custom ▸ Stack
 Input ▸ Value
-Converter ▸ Color Ramp
 Instances ▸ Realize Instances
 Generate ▸ Array
 Generate ▸ Subdivision Surface
-Texture ▸ White Noise Texture
 Utilities ▸ Math
 Color ▸ Mix ▸ Mix Color
 Filter ▸ Filter ▸ Box Sharpen
@@ -1055,24 +1039,47 @@ Render ▸ View Render|F11
 Collection Instance ▸ CI
 Collection Instance ▸ StairSystem
 Deform ▸ Displace
-Save, Open, Append (Ctrl S) ▸ Link
 Vector ▸ Bump
 Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
-Color ▸ RGB Curves
 Shader ▸ Emission
    ugg-fabric-velvet-chestnut.001
 Converter ▸ Blackbody
-Input ▸ RGB
-File ▸ Import ▸ SketchUp (.skp)
-Object ▸ SketchUp Cleanup
 Light ▸ Area
 Auto Boolean (Shift Ctrl B) ▸ Difference|Ctrl Numpad -
 Normals ▸ Weighted Normal
-Image ▸ Mesh Plane
-Save, Open, Append (Ctrl S) ▸ Append
   RailingProfile
-Generate ▸ Solidify
 Input ▸ Geometry
 Shader ▸ Mix Shader
 Shader ▸ Transparent BSDF
+   Wall_Plaster_Chestnut_Venetian_A
+   texture wall  copy
 Object ▸ Set Origin ▸ Origin to Geometry
+Color ▸ Mix Color ▸ Saturation
+ F Carpet011_8K-JPG_NORMAL
+Input ▸ RGB
+Color ▸ Mix Color
+Color ▸ Brightness/Contrast
+Color ▸ Hue/Saturation/Value
+Custom ▸ Stack
+Texture ▸ Noise Texture
+Converter ▸ Color Ramp
+Texture ▸ White Noise Texture
+ F Carpet012_8K-JPG_NORMAL
+ F Fabric023_8K-JPG_NORMAL
+Color ▸ RGB Curves
+Save, Open, Append (Ctrl S) ▸ Link
+   ugg-fabric-velvet-chestnut.002
+Mesh ▸ Plane
+   2d65c70a36c08d2198168b8803308f2a.002
+File ▸ Import ▸ SketchUp (.skp)
+Object ▸ SketchUp Cleanup
+   Alumina_Metaltex.001
+Save, Open, Append (Ctrl S) ▸ Append
+   Lighing Glo1
+   Fabric 04
+   Silver 04, Brushed
+Texture ▸ Magic Texture
+Image ▸ Mesh Plane
+Generate ▸ Solidify
+Texture ▸ Image Texture
+   MetalDarkGalvanized.001
