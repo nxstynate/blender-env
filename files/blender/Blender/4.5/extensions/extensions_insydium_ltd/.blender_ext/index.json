@@ -7,7 +7,7 @@
       "id": "insydium_nexus",
       "name": "INSYDIUM NeXus (BETA)",
       "tagline": "NeXus tools for Blender",
-      "version": "2026.0.6012337",
+      "version": "2026.0.6051726",
       "type": "add-on",
       "maintainer": "INSYDIUM LTD <support@insydium.ltd>",
       "license": [
@@ -30,15 +30,15 @@
         "3.14"
       ],
       "archive_url": "./download/nexus_blender-win32-x86_64-py314.zip",
-      "archive_size": 126254275,
-      "archive_hash": "sha256:11089d7442fa3b1f1bce507a3bd7b9e183302454bb6d8c05b18595d44c4b1b71"
+      "archive_size": 128074998,
+      "archive_hash": "sha256:e07cc41b86be40361dab51409e29f4d223885a256284fd0d4bb8c9fe8d32643e"
     },
     {
       "schema_version": "1.0.0",
       "id": "insydium_nexus",
       "name": "INSYDIUM NeXus (BETA)",
       "tagline": "NeXus tools for Blender",
-      "version": "2026.0.6012336",
+      "version": "2026.0.6051725",
       "type": "add-on",
       "maintainer": "INSYDIUM LTD <support@insydium.ltd>",
       "license": [
@@ -61,15 +61,15 @@
         "3.14"
       ],
       "archive_url": "./download/nexus_blender-macos-arm64-py314.zip",
-      "archive_size": 119794930,
-      "archive_hash": "sha256:4c741e4a6ae43746ff59ac5d0734ee2ed299a4bf52a64fcf2c8fc2e827a0ea1c"
+      "archive_size": 120734555,
+      "archive_hash": "sha256:475aa5c9c6bb4957380ae1d63329d56cb65bc6562e72e54ec4118a0c046981b7"
     },
     {
       "schema_version": "1.0.0",
       "id": "insydium_nexus",
       "name": "INSYDIUM NeXus (BETA)",
       "tagline": "NeXus tools for Blender",
-      "version": "2026.0.6012337",
+      "version": "2026.0.6051726",
       "type": "add-on",
       "maintainer": "INSYDIUM LTD <support@insydium.ltd>",
       "license": [
@@ -92,15 +92,15 @@
         "3.13"
       ],
       "archive_url": "./download/nexus_blender-win32-x86_64-py313.zip",
-      "archive_size": 126199491,
-      "archive_hash": "sha256:a0a0d9d0986f4a9344d16c9e6b254bea2f5e648f05d65cc06a20eb53382cb110"
+      "archive_size": 128020214,
+      "archive_hash": "sha256:cf7309ac64dd02d9d4c217cd6297bbcb106d9a5697ac89e3d4b219bbfd7636bb"
     },
     {
       "schema_version": "1.0.0",
       "id": "insydium_nexus",
       "name": "INSYDIUM NeXus (BETA)",
       "tagline": "NeXus tools for Blender",
-      "version": "2026.0.6012336",
+      "version": "2026.0.6051726",
       "type": "add-on",
       "maintainer": "INSYDIUM LTD <support@insydium.ltd>",
       "license": [
@@ -123,15 +123,15 @@
         "3.11"
       ],
       "archive_url": "./download/nexus_blender-win32-x86_64-py311.zip",
-      "archive_size": 126146372,
-      "archive_hash": "sha256:b72a7d40720570c2a56ed15b31e768c36c872752196da5461d6cf6caf2563d7f"
+      "archive_size": 127967094,
+      "archive_hash": "sha256:6a35f815a38e571258f66f50b52ca50e201c3573558d4f6ba4d6f56dea2ba7db"
     },
     {
       "schema_version": "1.0.0",
       "id": "insydium_nexus",
       "name": "INSYDIUM NeXus (BETA)",
       "tagline": "NeXus tools for Blender",
-      "version": "2026.0.6012336",
+      "version": "2026.0.6051725",
       "type": "add-on",
       "maintainer": "INSYDIUM LTD <support@insydium.ltd>",
       "license": [
@@ -154,15 +154,15 @@
         "3.11"
       ],
       "archive_url": "./download/nexus_blender-macos-arm64-py311.zip",
-      "archive_size": 119572190,
-      "archive_hash": "sha256:15aa928af0bc2b3d00592ca628649c2d3e9dcd9ed1a51c156a72c1fdf2369f8b"
+      "archive_size": 120511815,
+      "archive_hash": "sha256:34a6c5a08f2b54a03724af23a7d7ee6e40f496e4a2b19329e2036e52e72dd6a0"
     },
     {
       "schema_version": "1.0.0",
       "id": "insydium_nexus",
       "name": "INSYDIUM NeXus (BETA)",
       "tagline": "NeXus tools for Blender",
-      "version": "2026.0.6012336",
+      "version": "2026.0.6051725",
       "type": "add-on",
       "maintainer": "INSYDIUM LTD <support@insydium.ltd>",
       "license": [
@@ -185,8 +185,8 @@
         "3.13"
       ],
       "archive_url": "./download/nexus_blender-macos-arm64-py313.zip",
-      "archive_size": 119683491,
-      "archive_hash": "sha256:9d66ba534750bf131debfc6c62760d777ca94b7ece2618204a12426aa482a6f4"
+      "archive_size": 120623116,
+      "archive_hash": "sha256:2b05e44b15ceb843037c6dceb0602627d9e51464cbfd15a523a12f3af1aae6f9"
     }
   ]
 }

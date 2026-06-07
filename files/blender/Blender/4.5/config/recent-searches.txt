@@ -266,7 +266,6 @@ Input ▸ Scene ▸ Object Info
    Desert_Western_Ground_Gravel_Slate_venoehv
 Vector ▸ Displacement
    iPhone16
-Instances ▸ Instances to Points
 Hair ▸ Read ▸ Curve Root
 Utilities ▸ Math ▸ Mix
 Utilities ▸ Matrix ▸ Invert Matrix
@@ -302,7 +301,6 @@ Curve ▸ Operations ▸ Curve to Mesh
 Curve ▸ Primitives ▸ Curve Circle
 Curve ▸ Operations ▸ Trim Curve
 Hair ▸ Read ▸ Curve Segment
-Geometry ▸ Read ▸ Radius
 Curve ▸ Write ▸ Set Curve Radius
 Mesh ▸ Operations ▸ Mesh to Curve
    metal-001
@@ -347,7 +345,6 @@ Input ▸ Attribute
 Point ▸ Points
 Mesh ▸ Read ▸ Vertex Neighbors
   Geometry Nodes.001
-  Geometry Nodes
 Group ▸ Group Input
 Utilities ▸ Math ▸ Compare
 Utilities ▸ Matrix ▸ Project Point
@@ -547,7 +544,6 @@ Input ▸ Wireframe
 Add Modifier ▸ Geometry Nodes
    fabric-striped-black-and-white-001.001
 Shader ▸ Translucent BSDF
-   Material
 Mesh ▸ UV Sphere
 Generate ▸ Mirror
 Converter ▸ Map Range
@@ -672,7 +668,6 @@ Input ▸ Scene ▸ Is Viewport
 Geometry ▸ Operations ▸ Delete Geometry
 Mesh ▸ Primitives ▸ Mesh Circle
 Instances ▸ Rotate Instances
-Utilities ▸ Random Value
 Input ▸ Constant ▸ Vector
 Utilities ▸ Vector ▸ Vector Math
 Geometry ▸ Operations ▸ Bake
@@ -706,7 +701,6 @@ Pedestal_004
    charcoal_swatch_001
   Chain
   CurveInstancer
-Mesh ▸ Primitives ▸ UV Sphere
 Utilities ▸ Rotation ▸ Euler to Rotation
 Utilities ▸ Deprecated ▸ Align Euler to Vector
 Curve ▸ Read ▸ Curve Tangent
@@ -771,7 +765,6 @@ Empty ▸ Plain Axes
    lightbox-ceiling-001
    yoga-mat-orange
    mann-walls.001
-   Material.001
 File ▸ Export ▸ Autodesk 3DS (.3ds)
   focusPoint
    facelit-white
@@ -877,16 +870,11 @@ Edit ▸ UV Warp
 cinder-block
    ConcretePaintedRed
    entry-option-03
-Geometry ▸ Operations ▸ Transform Geometry
 Instances ▸ Instance on Points
 Geometry ▸ Operations ▸ Duplicate Elements
 Geometry ▸ Geometry to Instance
 Geometry ▸ Write ▸ Set Position
-Utilities ▸ Math ▸ Math
-Geometry ▸ Join Geometry
-Input ▸ Constant ▸ Value
 Utilities ▸ Vector ▸ Combine XYZ
-Material ▸ Set Material
    metal-square-grid
 File ▸ Import ▸ Autodesk MAX (.max)
 Vector ▸ Normal
@@ -911,13 +899,11 @@ L0 nike-glow-pink-001|[materials.blend]
    blue.001
    black-plastic-001
 File ▸ Defaults ▸ Save Startup File
-Mesh ▸ Cylinder
 Converter ▸ Math ▸ Compare
 Converter ▸ RGB to BW
 Custom ▸ Composite
 Input ▸ Fresnel
 Texture ▸ Voronoi Texture
-Mesh ▸ Monkey
  0 Material.002
 soulTower.004
    fix-floor.002
@@ -950,7 +936,6 @@ trialing
 Window ▸ Toggle System Console
 Texture ▸ Checker Texture
  0 Material
- 0 Material.001
   Scene
 L0 HdriWorld|[production-light-master.blend]
    Material11.001
@@ -973,7 +958,6 @@ L  Material32|[mannequins.blend]
    Steel 14, Grid#1.001
 Mesh ▸ Circle
 Curve ▸ Curve Profiles ▸ Helix (3D)
-Mesh ▸ Primitives ▸ Cube
 Normals ▸ Smooth by Angle
 Generate ▸ Bevel
 Deform ▸ Shrinkwrap
@@ -1027,8 +1011,6 @@ Texture ▸ Gradient Texture
 Input ▸ Light Path ▸ Ray Depth
 Input ▸ Value
 Instances ▸ Realize Instances
-Generate ▸ Array
-Generate ▸ Subdivision Surface
 Utilities ▸ Math
 Color ▸ Mix ▸ Mix Color
 Filter ▸ Filter ▸ Box Sharpen
@@ -1038,13 +1020,11 @@ Render ▸ Render Image|F12
 Render ▸ View Render|F11
 Collection Instance ▸ CI
 Collection Instance ▸ StairSystem
-Deform ▸ Displace
 Vector ▸ Bump
 Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
 Shader ▸ Emission
    ugg-fabric-velvet-chestnut.001
 Converter ▸ Blackbody
-Light ▸ Area
 Auto Boolean (Shift Ctrl B) ▸ Difference|Ctrl Numpad -
 Normals ▸ Weighted Normal
   RailingProfile
@@ -1069,10 +1049,7 @@ Texture ▸ White Noise Texture
 Color ▸ RGB Curves
 Save, Open, Append (Ctrl S) ▸ Link
    ugg-fabric-velvet-chestnut.002
-Mesh ▸ Plane
    2d65c70a36c08d2198168b8803308f2a.002
-File ▸ Import ▸ SketchUp (.skp)
-Object ▸ SketchUp Cleanup
    Alumina_Metaltex.001
 Save, Open, Append (Ctrl S) ▸ Append
    Lighing Glo1
@@ -1080,6 +1057,33 @@ Save, Open, Append (Ctrl S) ▸ Append
    Silver 04, Brushed
 Texture ▸ Magic Texture
 Image ▸ Mesh Plane
-Generate ▸ Solidify
 Texture ▸ Image Texture
    MetalDarkGalvanized.001
+Mesh ▸ Primitives ▸ Cube
+Instances ▸ Instances to Points
+Geometry ▸ Read ▸ Radius
+Mesh ▸ Monkey
+INSYDIUM NeXus ▸ nxWind
+INSYDIUM NeXus ▸ nxTurbulence
+Material ▸ Set Material
+   Material
+ 0 Material.001
+   Material.001
+Mesh ▸ Cylinder
+Generate ▸ Subdivision Surface
+Deform ▸ Displace
+  Geometry Nodes
+Mesh ▸ Primitives ▸ Cylinder
+Mesh ▸ Primitives ▸ UV Sphere
+Geometry ▸ Join Geometry
+Geometry ▸ Operations ▸ Transform Geometry
+Input ▸ Constant ▸ Value
+Utilities ▸ Math ▸ Math
+File ▸ Import ▸ SketchUp (.skp)
+Object ▸ SketchUp Cleanup
+Utilities ▸ Random Value
+Light ▸ Area
+Mesh ▸ Plane
+Generate ▸ Array
+   glass
+Generate ▸ Solidify

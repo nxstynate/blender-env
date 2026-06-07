@@ -1,12 +1,12 @@
 [Bookmarks]
 [Recent]
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\1_docs\2_correspondence\2026-06-03-13-08-13\
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\1_docs\2_correspondence\2026-06-04-17-55-57\IZ table\
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\1_docs\2_correspondence\2026-06-04-17-55-57\
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\1_docs\2_correspondence\2026-06-03-13-08-13\graphics\The One\
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\1_docs\2_correspondence\2026-06-04-17-55-57\FW Wall\
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\1_docs\2_correspondence\2026-06-04-17-55-57\AZ\
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\3_blender\IZPinnacle\2_cam\
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\1_docs\2_correspondence\2026-06-03-13-08-13\graphics\Triangle\AZ\Gallery Images\
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\1_docs\2_correspondence\2026-06-03-13-08-13\graphics\Triangle\FW plaques\
-X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\1_docs\2_correspondence\2026-06-03-13-08-13\graphics\Triangle\IZ\Scaled\
+X:\LocalProduction\260605.01-azur-040jor-jordan-atlanta-design-intent\3_blender\2_links\
+X:\LocalProduction\260606.01-blackout-retail-nike-atlanta\3_blender\nikeAtlanta\1_model\1_env\
+X:\LocalProduction\260605.01-azur-040jor-jordan-atlanta-design-intent\3_blender\JordanDesignIntent\1_model\1_env\
+X:\LocalProduction\260605.01-azur-040jor-jordan-atlanta-design-intent\3_blender\JordanDesignIntent\3_light\
+X:\Dropbox\2_Library\2_textures\arroway\arroway_wood_vol_01\maps\
+X:\LocalProduction\260606.01-blackout-retail-nike-atlanta\3_blender\nikeAtlanta\2_cam\
+X:\LocalProduction\260605.01-azur-040jor-jordan-atlanta-design-intent\3_blender\JordanDesignIntent\2_cam\
+X:\LocalProduction\260605.01-azur-040jor-jordan-atlanta-design-intent\3_blender\JordanDesignIntent\1_model\7_initiative\
+X:\LocalProduction\260605.01-azur-040jor-jordan-atlanta-design-intent\3_blender\JordanDesignIntent\1_model\2_fixtures\
+X:\LocalProduction\260606.01-blackout-retail-nike-atlanta\3_blender\nikeAtlanta\1_model\2_fixtures\
