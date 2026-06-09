@@ -1,3 +1,4 @@
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-06-09-15-09-24\setup.blend
 X:\LocalProduction\260605.01-azur-040jor-jordan-atlanta-design-intent\3_blender\2_links\collectionsMaster.blend
 X:\LocalProduction\260606.01-blackout-retail-nike-atlanta\3_blender\nikeAtlanta\1_model\1_env\production-env-master.blend
 X:\LocalProduction\260605.01-azur-040jor-jordan-atlanta-design-intent\3_blender\JordanDesignIntent\1_model\1_env\production-env-master.blend
@@ -17,4 +18,3 @@ X:\LocalProduction\260424.01-azur-026jor-fa26-jordan-love-of-the-game\1_docs\2_c
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipIZOptions_\1_model\1_env\production-env-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipIZOptions_\3_light\production-light-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipGF_\3_light\production-light-master.blend
-X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\2_links\collectionsMaster.blend

@@ -1,5 +1,6 @@
 [Bookmarks]
 [Recent]
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-06-09-15-09-24\
 X:\LocalProduction\260605.01-azur-040jor-jordan-atlanta-design-intent\3_blender\2_links\
 X:\LocalProduction\260606.01-blackout-retail-nike-atlanta\3_blender\nikeAtlanta\1_model\1_env\
 X:\LocalProduction\260605.01-azur-040jor-jordan-atlanta-design-intent\3_blender\JordanDesignIntent\1_model\1_env\
@@ -9,4 +10,3 @@ X:\LocalProduction\260606.01-blackout-retail-nike-atlanta\3_blender\nikeAtlanta\
 X:\LocalProduction\260605.01-azur-040jor-jordan-atlanta-design-intent\3_blender\JordanDesignIntent\2_cam\
 X:\LocalProduction\260605.01-azur-040jor-jordan-atlanta-design-intent\3_blender\JordanDesignIntent\1_model\7_initiative\
 X:\LocalProduction\260605.01-azur-040jor-jordan-atlanta-design-intent\3_blender\JordanDesignIntent\1_model\2_fixtures\
-X:\LocalProduction\260606.01-blackout-retail-nike-atlanta\3_blender\nikeAtlanta\1_model\2_fixtures\
