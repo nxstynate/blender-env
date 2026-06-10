@@ -430,7 +430,6 @@ Add ▸ Camera
  F neon-lemonade-001
 L  stone-concrete-001|[lululemon-materials.blend]
    grass
-   Material.002
 Shader ▸ Diffuse BSDF
    graphic-fanfestival-001
    paint-bahc-blue-001
@@ -959,7 +958,6 @@ L  Material32|[mannequins.blend]
 Mesh ▸ Circle
 Curve ▸ Curve Profiles ▸ Helix (3D)
 Normals ▸ Smooth by Angle
-Generate ▸ Bevel
 Deform ▸ Shrinkwrap
    KOPShoeGreen
    Concrete 16
@@ -1005,7 +1003,6 @@ KOPLoveLetterPedestalPinnacle
 
    KOPLoveLetterPedestalPinnacle.001
    KOPLoveLetterPedestalPinnacle.002
-Add ▸ Collection Instance...
 shades
 Texture ▸ Gradient Texture
 Input ▸ Light Path ▸ Ray Depth
@@ -1022,10 +1019,7 @@ Collection Instance ▸ CI
 Collection Instance ▸ StairSystem
 Vector ▸ Bump
 Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
-Shader ▸ Emission
-   ugg-fabric-velvet-chestnut.001
 Converter ▸ Blackbody
-Auto Boolean (Shift Ctrl B) ▸ Difference|Ctrl Numpad -
 Normals ▸ Weighted Normal
   RailingProfile
 Input ▸ Geometry
@@ -1033,7 +1027,6 @@ Shader ▸ Mix Shader
 Shader ▸ Transparent BSDF
    Wall_Plaster_Chestnut_Venetian_A
    texture wall  copy
-Object ▸ Set Origin ▸ Origin to Geometry
 Color ▸ Mix Color ▸ Saturation
  F Carpet011_8K-JPG_NORMAL
 Input ▸ RGB
@@ -1045,19 +1038,14 @@ Texture ▸ Noise Texture
 Converter ▸ Color Ramp
 Texture ▸ White Noise Texture
  F Carpet012_8K-JPG_NORMAL
- F Fabric023_8K-JPG_NORMAL
 Color ▸ RGB Curves
-Save, Open, Append (Ctrl S) ▸ Link
-   ugg-fabric-velvet-chestnut.002
    2d65c70a36c08d2198168b8803308f2a.002
    Alumina_Metaltex.001
-Save, Open, Append (Ctrl S) ▸ Append
    Lighing Glo1
    Fabric 04
    Silver 04, Brushed
 Texture ▸ Magic Texture
 Image ▸ Mesh Plane
-Texture ▸ Image Texture
    MetalDarkGalvanized.001
 Mesh ▸ Primitives ▸ Cube
 Instances ▸ Instances to Points
@@ -1070,7 +1058,6 @@ Material ▸ Set Material
  0 Material.001
    Material.001
 Mesh ▸ Cylinder
-Generate ▸ Subdivision Surface
 Deform ▸ Displace
   Geometry Nodes
 Mesh ▸ Primitives ▸ Cylinder
@@ -1079,11 +1066,38 @@ Geometry ▸ Join Geometry
 Geometry ▸ Operations ▸ Transform Geometry
 Input ▸ Constant ▸ Value
 Utilities ▸ Math ▸ Math
-File ▸ Import ▸ SketchUp (.skp)
-Object ▸ SketchUp Cleanup
 Utilities ▸ Random Value
 Light ▸ Area
-Mesh ▸ Plane
 Generate ▸ Array
    glass
+Object ▸ Set Origin ▸ Origin to Geometry
+   Clay Plaster -brown1 copy
+   2d65c70a36c08d2198168b8803308f2a.003
+Texture ▸ Image Texture
+Generate ▸ Subdivision Surface
+   Standard wall shelf light wood.003
+Save, Open, Append (Ctrl S) ▸ Append
+   Mirror
+   Clay Plaster -SAND
+   Ombre Sunset Gradient1.002
+Surface ▸ Nurbs Curve
+Generate ▸ Bevel
+Face (Ctrl F) ▸ Grid Fill
+Mesh ▸ Plane
 Generate ▸ Solidify
+Auto Boolean (Shift Ctrl B) ▸ Difference|Ctrl Numpad -
+   ugg-fabric-velvet-chestnut.001
+   Formica 8846 Oiled Legno swatch.001
+File ▸ Import ▸ SketchUp (.skp)
+Object ▸ SketchUp Cleanup
+Add ▸ Collection Instance...
+monkeys
+Shader ▸ Emission
+   Material.002
+   Clay Plaster -SAND.001
+   Clay Plaster -brown
+ F Fabric023_8K-JPG_NORMAL
+   chocolate carpet1
+   ugg-fabric-velvet-chestnut.002
+   Material5
+Save, Open, Append (Ctrl S) ▸ Link
