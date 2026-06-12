@@ -1,10 +1,10 @@
+X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipGF_\1_model\7_initiative\production-initiative-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipStairs_\1_model\7_initiative\production-initiative-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipBasement_\1_model\7_initiative\production-initiative-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipIZOptions_\3_light\production-light-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipGF_\3_light\production-light-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipIZOptions_\1_model\1_env\production-env-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipIZOptions_\1_model\7_initiative\production-initiative-master.blend
-X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\RegentStFlagshipGF_\1_model\7_initiative\production-initiative-master.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\2_links\collectionsMaster.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\3_blender\2_links\basement-fitting-room.blend
 X:\LocalProduction\260430.01-azur-011ugg_flagship-store-design\1_docs\2_correspondence\2026-06-11-13-18-28\export.blend
